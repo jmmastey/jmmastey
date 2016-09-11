@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://jmmastey.github.io/josephmastey/jekyll/2015/02/03/welcome-to-jekyll/</loc>
-<lastmod>2015-02-03T00:00:00+07:00</lastmod>
-</url>
-<url>
 <loc>http://jmmastey.github.io/josephmastey/jekyll/example/2014/03/01/example-content/</loc>
 <lastmod>2014-03-01T00:00:00+07:00</lastmod>
 </url>
@@ -12,9 +8,26 @@
 <loc>http://jmmastey.github.io/josephmastey/404/</loc>
 </url>
 <url>
-<loc>http://jmmastey.github.io/josephmastey/about/</loc>
+<loc>http://jmmastey.github.io/josephmastey/</loc>
 </url>
 <url>
-<loc>http://jmmastey.github.io/josephmastey/</loc>
+<loc>http://jmmastey.github.io/josephmastey/portfolio/cpl.html</loc>
+<lastmod>2016-09-11T21:05:27+07:00</lastmod>
+</url>
+<url>
+<loc>http://jmmastey.github.io/josephmastey/portfolio/enova.html</loc>
+<lastmod>2016-09-11T21:06:05+07:00</lastmod>
+</url>
+<url>
+<loc>http://jmmastey.github.io/josephmastey/portfolio/gozent.html</loc>
+<lastmod>2016-09-11T21:10:34+07:00</lastmod>
+</url>
+<url>
+<loc>http://jmmastey.github.io/josephmastey/portfolio/lyonscg.html</loc>
+<lastmod>2016-09-11T21:10:37+07:00</lastmod>
+</url>
+<url>
+<loc>http://jmmastey.github.io/josephmastey/portfolio/uptake.html</loc>
+<lastmod>2016-09-11T21:10:42+07:00</lastmod>
 </url>
 </urlset>
