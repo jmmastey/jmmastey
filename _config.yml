@@ -42,6 +42,10 @@ redcarpet:
               'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
 highlighter: rouge
 
+collections:
+  portfolio:
+    output: true
+
 # Extending Jekyll
 gems:
   - jekyll-feed

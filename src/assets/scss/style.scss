@@ -2,11 +2,13 @@
 The main SCSS file for everything, yep
 */
 
+@import "scripts";
+@import "font-awesome";
 @import "base";
 @import "grid";
+@import "themestyle";
 @import "layout";
 @import "switcher";
-@import "themestyle";
 @import "colors";
-@import "font-awesome";
+
 
