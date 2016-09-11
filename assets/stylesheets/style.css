@@ -607,44 +607,6 @@ legend span {
 .row {
   margin-bottom: 50px; }
 
-/* BACKGROUND AND BORDER COLOR */
-.down:hover i {
-  background: #F15B2D;
-  border-color: #F15B2D; }
-
-/* COLOR */
-.button.outline,
-button.outline,
-input[type="submit"].outline,
-input[type="reset"].outline,
-input[type="button"].outline,
-.port-name,
-.features i,
-.callout .title,
-.milestones i,
-.trigger span,
-.team-job,
-.post-date,
-.body_copy a {
-  color: #F15B2D; }
-
-/* BACKGROUND */
-.button.color,
-button.color,
-input[type="submit"].color,
-input[type="reset"].color,
-input[type="button"].color,
-.highlight-color,
-.progress,
-.process-list li.current i,
-.price-label,
-.skill-semi {
-  background: #F15B2D; }
-
-/* BORDER COLOR */
-.description:after {
-  border-color: #F15B2D; }
-
 /* ===================================================== */
 /* Grid                                                 */
 /* ===================================================== */
@@ -2752,6 +2714,44 @@ div.light_square .pp_close {
 
 .body_copy ul {
   list-style: inside; }
+
+/* BACKGROUND AND BORDER COLOR */
+.down:hover i {
+  background: #F15B2D;
+  border-color: #F15B2D; }
+
+/* COLOR */
+.button.outline,
+button.outline,
+input[type="submit"].outline,
+input[type="reset"].outline,
+input[type="button"].outline,
+.port-name,
+.features i,
+.callout .title,
+.milestones i,
+.trigger span,
+.team-job,
+.post-date,
+.body_copy a {
+  color: #F15B2D; }
+
+/* BACKGROUND */
+.button.color,
+button.color,
+input[type="submit"].color,
+input[type="reset"].color,
+input[type="button"].color,
+.highlight-color,
+.progress,
+.process-list li.current i,
+.price-label,
+.skill-semi {
+  background: #F15B2D; }
+
+/* BORDER COLOR */
+.description:after {
+  border-color: #F15B2D; }
 
 /*!
  *  Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
