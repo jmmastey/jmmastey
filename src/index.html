@@ -1,22 +1,46 @@
 ---
 layout: default
 ---
+  <!-- HERO SLIDER -->
+  <div class="slider-wrapper pattern" style="background-image: url('img/patterns/pat-2.png');">
+    <ul class="main-slider bxslider">
+      <!-- greeting slide -->
+      <li style="visibility:hidden;"><div class="caption">
+        <div class="vertical-align welcome">
+          <h1 class="caption-title cap-anim" data-animation="fadeInDown">Hi, I'm Joe.</h1>
+          <p class="caption-subtitle cap-anim" data-animation="fadeInUp">I help companies build fantastic cultures.</p>
+        </div><!-- End .vertical-align -->
+      </div></li>
 
-<div class="home">
+      <!-- uptake -->
+      <li><div class="caption">
+        <div class="vertical-align welcome">
+          <p class="caption-subtitle cap-anim" data-animation="fadeInUp">"Joe did a great job of quickly understanding the vision, getting a lay of the land and diving in to enhance our engineering on-boarding program.  His work has had a big impact." - <b>Will Hansmann, CIO / VP of Engineering, Uptake</b></p>
+        </div><!-- End .vertical-align -->
+      </div></li>
 
-  <h1 class="page-heading">Posts</h1>
+      <!-- enova quote -->
+      <li><div class="caption">
+        <div class="vertical-align welcome">
+          <p class="caption-subtitle cap-anim" data-animation="fadeInUp">"In 16 years of my career i have received no training nor professional development even grossly comparable to Joe's program." - <b>Jon M, Enova</b></p>
+        </div><!-- End .vertical-align -->
+      </div></li>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+      <!-- viply -->
+      <li><div class="caption">
+        <div class="vertical-align welcome">
+          <p class="caption-subtitle cap-anim" data-animation="fadeInUp">"Joe has had a tremendous impact in improving our application's stability, security, and efficiency, as well as establishing a foundation for us grow more cost effectively. He has upped our game on team communication and has enabled us to grow into new vertical markets." - <b>John Masterson, CEO, Viply</b></p>
+        </div><!-- End .vertical-align -->
+      </div></li>
+      
+      <!-- end on the original title -->
+      <li><div class="caption">
+        <div class="vertical-align welcome">
+          <h1 class="caption-title cap-anim" data-animation="fadeInDown">Let's Chat.</h1>
+          <p class="caption-subtitle cap-anim" data-animation="fadeInUp">I'd love to chat about your company and how we can make it better.</p>
+        </div><!-- End .vertical-align -->
+      </div></li>
+    </ul><!-- End .main-slider -->
+  <a href="#skills" class="down"><i class="fa fa-angle-down"></i><span>scroll for more</span></a>
+  </div><!-- End .slider-wrapper -->
+  <!-- END SLIDER -->

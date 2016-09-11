@@ -1,7 +1,6 @@
 'use strict';
 const argv = require('yargs').argv;
 const autoprefixer = require('autoprefixer');
-const babel = require('gulp-babel');
 const browserSync = require('browser-sync').create();
 const concat = require('gulp-concat');
 const cssnano = require('gulp-cssnano');
@@ -25,14 +24,13 @@ gulp.task('scripts', () =>
   // NOTE: The order here is important since it's concatenated in order from
   // top to bottom, so you want vendor scripts etc on top
   gulp.src([
-    'src/assets/javascript/vendor.js',
+    'src/assets/javascript/jquery.min.js',
+    'src/assets/javascript/scripts.js',
+    'src/assets/javascript/plugins.js',
     'src/assets/javascript/main.js'
   ])
     .pipe(newer('.tmp/assets/javascript/index.js', {dest: '.tmp/assets/javascript', ext: '.js'}))
     .pipe(when(!argv.prod, sourcemaps.init()))
-    .pipe(babel({
-      presets: ['es2015']
-    }))
     .pipe(concat('index.js'))
     .pipe(size({
       showFiles: true
