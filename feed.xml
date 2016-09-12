@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://josephmastey.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://josephmastey.com/" rel="alternate" type="text/html" /><updated>2016-09-12T22:59:50+07:00</updated><id>http://josephmastey.com/</id><title type="html">josephmastey</title><author><name>Joseph Mastey</name><uri>http://josephmastey.com/</uri></author></feed>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://josephmastey.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://josephmastey.com/" rel="alternate" type="text/html" /><updated>2016-09-13T01:21:10+07:00</updated><id>http://josephmastey.com/</id><title type="html">josephmastey</title><author><name>Joseph Mastey</name><uri>http://josephmastey.com/</uri></author><entry><title type="html">Test 2</title><link href="http://josephmastey.com/category1/category2/category3/2016/09/03/test-2/" rel="alternate" type="text/html" title="Test 2" /><published>2016-09-03T00:00:00+07:00</published><updated>2016-09-03T00:00:00+07:00</updated><id>http://josephmastey.com/category1/category2/category3/2016/09/03/test-2</id><content type="html" xml:base="http://josephmastey.com/category1/category2/category3/2016/09/03/test-2/">&lt;p&gt;
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta odit ab est itaque error unde nostrum tempore vitae rem quae iste facere dolore eveniet perferendis sint nobis exercitationem quod quidem.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex repellat eius incidunt a impedit dolorem saepe expedita natus eos architecto eligendi minima illum voluptatibus corporis. Adipisci laborum quo! Eveniet.
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul class=&quot;disc&quot;&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo quasi!&lt;/li&gt;
+  &lt;li&gt;Minima voluptate vitae magnam aspernatur consequatur exercitationem voluptatibus unde error.&lt;/li&gt;
+  &lt;li&gt;Incidunt aperiam magnam fuga impedit ullam perferendis amet. Voluptatum tenetur?&lt;/li&gt;
+  &lt;li&gt;Obcaecati cumque cum commodi maiores unde mollitia adipisci cupiditate quas!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam commodi saepe aliquid error corrupti rerum quaerat dolore labore amet expedita reiciendis ipsam pariatur deserunt aspernatur cupiditate eos quasi delectus harum nobis odit molestiae ad non id aliquam eius consequatur porro! Ullam enim voluptatem unde vitae minima soluta sint. Sapiente sint!&lt;/p&gt;</content><author><name>Joseph Mastey</name><uri>http://josephmastey.com/</uri></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/blog-2.jpg" /></entry><entry><title type="html">Test 1</title><link href="http://josephmastey.com/category1/category2/category3/2016/09/02/test-1/" rel="alternate" type="text/html" title="Test 1" /><published>2016-09-02T00:00:00+07:00</published><updated>2016-09-02T00:00:00+07:00</updated><id>http://josephmastey.com/category1/category2/category3/2016/09/02/test-1</id><content type="html" xml:base="http://josephmastey.com/category1/category2/category3/2016/09/02/test-1/">&lt;p&gt;
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta odit ab est itaque error unde nostrum tempore vitae rem quae iste facere dolore eveniet perferendis sint nobis exercitationem quod quidem.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex repellat eius incidunt a impedit dolorem saepe expedita natus eos architecto eligendi minima illum voluptatibus corporis. Adipisci laborum quo! Eveniet.
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul class=&quot;disc&quot;&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo quasi!&lt;/li&gt;
+  &lt;li&gt;Minima voluptate vitae magnam aspernatur consequatur exercitationem voluptatibus unde error.&lt;/li&gt;
+  &lt;li&gt;Incidunt aperiam magnam fuga impedit ullam perferendis amet. Voluptatum tenetur?&lt;/li&gt;
+  &lt;li&gt;Obcaecati cumque cum commodi maiores unde mollitia adipisci cupiditate quas!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam commodi saepe aliquid error corrupti rerum quaerat dolore labore amet expedita reiciendis ipsam pariatur deserunt aspernatur cupiditate eos quasi delectus harum nobis odit molestiae ad non id aliquam eius consequatur porro! Ullam enim voluptatem unde vitae minima soluta sint. Sapiente sint!&lt;/p&gt;</content><author><name>Joseph Mastey</name><uri>http://josephmastey.com/</uri></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/blog-1.jpg" /></entry></feed>
