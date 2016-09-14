@@ -1,0 +1,89 @@
+---
+layout: default
+---
+<div class="blog page">
+  <div class="section-title">
+    <h1 class="title">Blog</h1>
+    <p class="description">This is some information about the services we offer.</p>
+  </div>
+  <div class="container">
+    <div class="blog-main three-fourths">
+    
+      <!-- Blog post 1 -->
+      {% for post in site.posts %}
+      <article class="blog-post">
+        <div class="blog-date">
+          <div>{{post.date | date_to_string | slice: 3, 4}}</div>
+            <div class="day">{{post.date | date_to_string | slice: 0, 2}}</div>
+        </div>  
+
+        <a href="{{ post.url }}"><img class="main-image" src="{{ post.image }}" alt="iPad"></a>
+
+        <div class="post-container">
+          <h2 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+          <div class="post-content">
+
+            {{post.teaser}}
+            <a class="read-more" href="{{ post.url }}">Read More</a>
+          </div>
+
+        </div>
+
+      </article>
+
+      <hr>
+      {% endfor %}
+      <div class="clearfix"></div>
+
+    </div><!-- End .three-fourths -->
+
+    <!-- Sidebar -->
+    <aside class="aside one-fourth last">
+          
+      <div class="widgets">
+
+        <div class="widget">
+        <!--
+          <form class="search" action="search.html" method="get">
+            <button class="search-btn"><i class="fa fa-search"></i></button>
+            <input name="q" type="text" class="search-box" placeholder="search">
+          </form>
+        -->
+          <!-- End .search -->
+          <h5 class="sub-title">About</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, nisi, facere voluptatibus sed porro beatae.</p>
+          {% include mailchimp.html%}
+        </div><!-- End .widget -->
+        
+        <div class="widget">
+          <h5 class="sub-title">Categories</h5>
+          <ul class="categories">
+            {% for category in site.categories %}
+            <li><i class="fa fa-angle-right"></i><a href="#">{{category[0]}}</a></li>
+            {% endfor %}
+          </ul>
+        </div><!-- End .widget -->        
+
+        <div class="widget">
+          <h5 class="sub-title">Popular</h5>
+          <ul class="categories">
+            {% for post in site.posts %}
+              <li><i class="fa fa-angle-right"></i><a href="{{post.url}}">{{post.title}}</a></li>
+              {% endfor %}
+          </ul>
+        </div><!-- End .widget -->  
+        
+        <div class="widget tags">
+        <h5 class="sub-title">Popular Tags</h5>
+            {% for tag in site.tags %}
+            <a href="{{site.baseurl}}/tag/{{ tag[0] | slugify }}"> {{ tag[0] }} </a>
+          {% endfor %}
+        </div><!-- End .widget -->
+      </div>  <!-- End .widgets -->
+
+    </aside><!-- End .one-fourth -->
+  <!-- End Sidebar -->
+
+  </div><!-- End .container -->
+</div><!-- End .sect-4 -->

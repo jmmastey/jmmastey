@@ -2,7 +2,7 @@
 # Can be used in your theme by calling 'site.title' and so on
 title: josephmastey
 description: 
-url: http://jmmastey.github.io/josephmastey
+url: http://josephmastey.com
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: .tmp/src
@@ -35,16 +35,15 @@ paginate: 10
 paginate_path: 'page:num'
 excerpt_separator: ''
 
+tag_page_layout: tag_page
+tag_page_dir: tag
+
 # Markdown library and options
 markdown: redcarpet
 redcarpet:
   extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
               'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
 highlighter: rouge
-
-collections:
-  portfolio:
-    output: true
 
 # Extending Jekyll
 gems:

@@ -1,12 +1,17 @@
+{% if page.title != "home" %}
+<div class="header solid">
+{% else %} 
 <div class="header">
+{% endif %}
   <div class="container">
-    <a href="index.html" class="logo"><i class="fa fa-gears"></i></a>
+    <a href="{{site.baseurl}}/index.html" class="logo"><i class="fa fa-gears"></i></a>
 
     <ul id="sn" class="main_menu">
-      <li><a href="#top">Home</a></li>
-      <li><a href="#usp">What I Do</a></li>
-      <li><a href="#media">Media</a></li>
-      <li><a href="#portfolio">Experience</a></li>
+      <li><a href="{{site.baseurl}}/index.html#top">Home</a></li>
+      <li><a href="{{site.baseurl}}/index.html#usp">What I Do</a></li>
+      <li><a href="{{site.baseurl}}/index.html#media">Media</a></li>
+      <li><a href="{{site.baseurl}}/index.html#portfolio">Experience</a></li>
+      <li><a href="/blog">Blog</a></li>
 
       <li class='social'>
         <a href='mailto:jmmastey@gmail.com' class='fa fa-envelope-o'> </a>
@@ -14,5 +19,6 @@
         <a href='https://twitter.com/jmmastey' class='fa fa-twitter-square'> </a>
       </li>
     </ul>
+
   </div>
 </div>

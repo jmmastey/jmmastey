@@ -1,15 +1,192 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="blog-single page">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+    <div class="section-title">
+      <h1 class="title">Our Blog</h1>
+      <p class="description">This is some information about the services we offer.</p>
+    </div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+    <div class="container">
+      <div class="blog-main three-fourths">
 
-</article>
+        <article class="blog-post single">
+          <div class="blog-date">
+            <div>{{page.date | date_to_string | slice: 3, 4}}</div>
+            <div class="day">{{page.date | date_to_string | slice: 0, 2}}</div>
+          </div>  
+
+          <img class="main-image" src="{{page.image}}" alt="">
+          <h3 class="blog-title">This is a really catchy blog title, no?</h3>
+
+          {{content}}
+          <div> Tags:
+            <a href="#">design</a> /
+            <a href="#">development</a> /
+            <a href="#">workflow</a>
+          </div>
+        </article><!-- End .blog-post -->
+
+
+        <!-- RECENT POSTS -->
+        <div class="recent-posts clearfix">
+            
+          <h4 class="sub-title">Recent Posts</h4>
+          {% for post in site.posts limit:1 %}
+          <div class="one-half">
+            <div class="post-date animated">
+              <div>{{post.date | date_to_string | slice: 3, 4}}</div>
+            <div class="day">{{post.date | date_to_string | slice: 0, 2}}</div>
+            </div>
+            <!-- End post-date -->
+            <div class="post-content">
+              <h5 class="title"><a href="single-post.html">{{post.title}}</a></h5>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, qui?</p>
+            </div><!-- content -->
+          </div><!-- End .one-half -->
+          {% endfor %}
+          {% for post in site.posts limit:1 offset:1%}
+          <div class="one-half last">
+            <div class="post-date animated" data-animate="fadeInDown" data-animate-delay="1000">
+              <div>{{post.date | date_to_string | slice: 3, 4}}</div>
+            <div class="day">{{post.date | date_to_string | slice: 0, 2}}</div>
+            </div><!-- End post-date -->
+            <div class="post-content">
+              <h5 class="title"><a href="single-post.html">{{post.title}}</a></h5>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, provident.</p>
+            </div><!-- content -->
+          </div><!-- End .one-half -->
+          {% endfor %}
+        </div><!-- End .recent-posts -->
+        
+<!--
+        <div class="comments">
+            <h4 class="sub-title">Recent Comments</h4>
+            <ul class="comment-list">
+                <li>
+                    <article class="comment">
+                        <img src="img/avatar.png" alt="avatar" class="comment-avatar">
+                        <div class="comment-content">
+                            <h5 class="comment-author">
+                                Roland Peters
+                                <span class="comment-meta">January 3, 2013 \ <a href="#" class="comment-reply">reply</a></span>
+                            </h5>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis accusamus alias
+                            doloribus aliquam voluptas cupiditate animi officia temporibus dicta iure.
+                        </div>
+                    </article>
+                    <ul class="child">
+                        <li>
+                            <article class="comment">
+                                <img src="img/avatar.png" alt="avatar" class="comment-avatar">
+                                <div class="comment-content">
+                                    <h5 class="comment-author">
+                                        Andrew Davies
+                                        <span class="comment-meta">January 4, 2013 \ <a href="#" class="comment-reply">reply</a></span>
+                                    </h5>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus explicabo
+                                    itaque doloribus nisi eos numquam cum praesentium aliquid autem nesciunt?
+                                </div>
+                            </article>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <article class="comment">
+                        <img src="img/avatar.png" alt="avatar" class="comment-avatar">
+                        <div class="comment-content">
+                            <h5 class="comment-author">
+                                Julie Brown
+                                <span class="comment-meta">January 3, 2013 \ <a href="#" class="comment-reply">reply</a></span>
+                            </h5>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae adipisci ipsam est
+                            dolorum suscipit eaque incidunt blanditiis aperiam earum provident.
+                        </div>
+                    </article>
+                </li>
+                <li>
+                    <article class="comment">
+                        <img src="img/avatar.png" alt="avatar" class="comment-avatar">
+                        <div class="comment-content">
+                            <h5 class="comment-author">
+                                Ben Radcliff
+                                <span class="comment-meta">January 1, 2013 \ <a href="#" class="comment-reply">reply</a></span>
+                            </h5>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora dolorem repellendus eaque
+                            obcaecati doloremque fugiat suscipit minus totam quidem natus!
+                        </div>
+                    </article>
+                </li>
+            </ul>
+        </div>
+        <form action="#" class="leave-comment">
+            <h4 class="sub-title">Add Comment</h4>
+        
+            <div class="one-third">
+                <span>
+                    <input type="text" id="comment-name" name="comment-name" placeholder="name">
+                </span>
+                <span>
+                    <input type="email" id="comment-email" name="comment-email" placeholder="email">
+                </span>
+                <span>
+                    <input type="url" id="comment-url" name="comment-url" placeholder="website">
+                </span>
+            </div>
+        
+            <div class="two-thirds last" data-animate="fadeInDown" data-animate-delay="1000">
+                <span>
+                    <textarea name="comment-message" id="comment-message">Message</textarea>
+                </span>
+            </div>
+            <input type="submit" class="button" name="submit" value="Post Comment">
+        </form>
+-->
+        </div><!-- End .three-fourths -->
+
+      <!-- Sidebar -->
+      <aside class="aside one-fourth last">
+            
+        <div class="widgets">
+
+          <div class="widget">
+            <form class="search" action="search.html" method="get">
+              <button class="search-btn"><i class="fa fa-search"></i></button>
+              <input name="q" type="text" class="search-box" placeholder="search">
+            </form><!-- End .search -->
+            <h5 class="sub-title">About</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, nisi, facere voluptatibus sed porro beatae.</p>
+          </div><!-- End .widget -->
+          
+          <div class="widget">
+            <h5 class="sub-title">Categories</h5>
+            <ul class="categories">
+              {% for category in site.categories %}
+              <li><i class="fa fa-angle-right"></i><a href="#">{{category[0]}}</a></li>
+              {% endfor %}
+            </ul>
+          </div><!-- End .widget -->        
+
+          <div class="widget">
+            <h5 class="sub-title">Popular</h5>
+            <ul class="categories">
+            {% for post in site.posts %}
+              <li><i class="fa fa-angle-right"></i><a href="{{post.url}}">{{post.title}}</a></li>
+              {% endfor %}
+            </ul>
+          </div><!-- End .widget -->  
+          
+          <div class="widget tags">
+          <h5 class="sub-title">Popular Tags</h5>
+            {% for tag in site.tags %}
+            <a href="{{site.baseurl}}/tag/{{ tag[0] | slugify }}"> {{ tag[0] }} </a>
+          {% endfor %}
+          </div><!-- End .widget -->
+        </div>  <!-- End .widgets -->
+
+      </aside><!-- End .one-fourth -->
+      <!-- End Sidebar -->
+
+      </div><!-- End .container -->
+    </div><!-- End .sect-4 -->
