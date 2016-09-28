@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://josephmastey.com/category2/2016/09/03/test-2/</loc>
-<lastmod>2016-09-03T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://josephmastey.com/category1/2016/09/02/test-1/</loc>
-<lastmod>2016-09-02T00:00:00-05:00</lastmod>
+<loc>http://josephmastey.com/category1/2016/06/12/apprenticeship-vol-1-coraline-ada-ehmke/</loc>
+<lastmod>2016-06-12T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://josephmastey.com/404/</loc>
@@ -18,10 +14,10 @@
 <loc>http://josephmastey.com/</loc>
 </url>
 <url>
-<loc>http://josephmastey.com/tag/tag1/</loc>
+<loc>http://josephmastey.com/tag/apprenticeship/</loc>
 </url>
 <url>
-<loc>http://josephmastey.com/tag/tag2/</loc>
+<loc>http://josephmastey.com/tag/coraline/</loc>
 </url>
 <url>
 <loc>http://josephmastey.com/portfolio/cpl.html</loc>
