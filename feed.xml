@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://josephmastey.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://josephmastey.com/" rel="alternate" type="text/html" /><updated>2016-09-28T17:59:36-05:00</updated><id>http://josephmastey.com/</id><title type="html">josephmastey.com</title><subtitle>Articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.</subtitle><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><entry><title type="html">Case Studies in Apprenticeship Vol. 7 — John Gile, Derek Nelson, and Brent Williams</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 7 — John Gile, Derek Nelson, and Brent Williams" /><published>2016-04-30T00:00:00-05:00</published><updated>2016-04-30T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams/">&lt;p&gt;We’re back talking about software apprenticeships and the &lt;a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'&gt;practices that make them successful&lt;/a&gt;. This time we’re talking to three leaders from &lt;a href='https://cliquestudios.com/'&gt;Clique Studios&lt;/a&gt;, a design and engineering company in Chicago. They recently completed their first &lt;a href='http://modern-apprentice.com/'&gt;Modern Apprentice Program&lt;/a&gt; (MAP) and sat down to discuss what they learned.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Just to get started, I wanted to say thank you for taking the time to sit down and actually talk to me about the program you have.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; Yeah, of course.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Could you tell me briefly what got you interested as a company in doing an apprenticeship program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; Sure. So when we were getting started on the initial site we had a link that said Clique University and it was actually just a blog. But, the idea was that we always wanted a pillar of our business to be about education and training and sharing our learnings, because I’m a believer (or at least a recent convert) to the idea that no designer or engineer is really self-taught.&lt;/p&gt;
+
+&lt;p&gt;Everybody is learning something through the community. So when I asked myself “how did I learn development?” Well, I was “self-taught”. What really happened was that I stole some code from some site that already exists by some engineer that was smarter than me. Took it apart, rebuilt it, whatever. That’s not self-taught, that’s &lt;emph&gt;learning from somebody&lt;/emph&gt;. Same thing with design, same thing with really anything. So we wanted to accept that as a part of our business and realized that in technology and design everything is changing every day. And if you’re not really committed to re-learning your job you’re going to get left behind.&lt;/p&gt;
+
+&lt;p&gt;So we felt like an agency is a good place to do that, because if you’re working on, say, one software solution you’re building it and updating it all the time. It’s hard to get the varied amount of experiences you need to really be honing your craft. And having all these counter-arguments and other frameworks that might improve what you’re doing. So for us, we thought it was a good match. We just strictly believe in it, but we think an agency is a really good place to surround people with an environment to learn and get better.&lt;/p&gt;
+
+&lt;p&gt;So with us I think there’s two missions to our business. One’s what you see on our site; “Build something”. It’s making things. The second one is trying to get better at our jobs everyday. Brent has heard me say this ten times this week, but I want Clique to be the best at &lt;emph&gt;getting better&lt;/emph&gt;. We feel like if we give people a path and an environment to learn and improve their craft every day, it’s going to be good for clients, so we’re going to do better work. It’s going to be better for us internally, because we’re all getting better. And just community-wise, it’s going to be great for Chicago and for engineering in general, if all of us are committed to sharing what we know and giving ourselves paths to get better.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Fantastic. And so Brent joined just prior to the initial apprenticeship round. Can you tell me a little bit about the structure of the program. How did you decide to lay it out?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; Yeah, I joined the team kind of to do this thing. It was one of the first things. We wanted to try our hand at apprenticeship and really do a good job.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: And you’re the Director of Education?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; Yeah. That’s the title…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; I’m trying to get him to refer to himself as the Dean.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; *laughing* We’ll see if it sticks internally.&lt;/p&gt;
+
+&lt;p&gt;But the idea there really was to make it something that could be differentiated and at the same time really high quality. What we came up with was starting with what François, our head of engineering, and John, our CTO saying “Okay look, these are the skills we need for somebody to be highly successful.” And then planning backwards.&lt;/p&gt;
+
+&lt;p&gt;And I think that sounds intuitive. And it is. But it’s also for sure the way you would plan generally an educational experience, which is my background and mindset. And so that’s the way I tackled the problem. And then from there, we estimated how long we thought the average person would need to get to that bar, and landed on about twelve weeks. Starting out I always felt we had the advantage of leveraging a lot of shared apprentice program learnings throughout Chicago. So much has been learned and shared from your work on medium, to &lt;a href='http://chimera.labs.oreilly.com/books/1234000001813/index.html'&gt;Dave Hoover’s book&lt;/a&gt;, the &lt;a href='http://www.meetup.com/Chicago-Apprenticeship-Meetup/'&gt;Apprentice meetup&lt;/a&gt; and friends like Blake and Jill at Enova etc.&lt;/p&gt;
+
+&lt;p&gt;So there was a mixture of explicit sessions, where you’re going to sit down with an engineer for two hours and really show you how something works, to projects, where you’re going to be on your own working through some stuff. To day long challenges to assess your learning. It became a mixture of things, but the idea that ran underneath it all was a progression from very very supportive one-on-one mentorship towards more and more independence.&lt;/p&gt;
+
+&lt;p&gt;Which is ultimately what you’re going to have to exercise to be effective as an engineer at the company. All of our engineers here mentor and pair with them, but eventually they get to a place where they’re a little more independent.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;“Having an engineer that was in charge of mentoring all the apprentices through that project was more efficient and effective.”&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So within that program, you said that everybody mentors. Does each apprentice have a set mentor, or is it something you’ve distributed across the team?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; We started with doing one to one mentoring, and that remained a theme. But what became clear was that as we were giving projects to push people forward, having an engineer that was in charge of mentoring all the apprentices through that project was more efficient and effective.&lt;/p&gt;
+
+&lt;p&gt;And it’s hard when Bridget — John’s mentee — comes to him and says “this is what I’m working on”, if he hasn’t been involved in that project at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; So we had an assigned mentor for every mentee throughout, but towards the end when we had larger projects, we tried to have a project lead essentially. So I would — as an example — if I were project lead, I wrote the project as it should be implemented, and so on. And then because I’m the one who wrote it, and because I have my own expectations, and because I’m the one who’s going to evaluate it have my own standards on how this project should be done, most questions go to me for that project.&lt;/p&gt;
+
+&lt;p&gt;But, that said. If it was just “I need help”, then you’d typically go more to your actual mentor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Makes sense. So you mentioned evaluation, which I think is interesting. You guys wrote a &lt;a href='https://cliquestudios.com/software-apprentice-programs-4-things-we-learned/'&gt;blog post about the things you learned&lt;/a&gt;. And one of the things you mentioned was expectation setting. How do you set those demonstrable goals for apprentices, and how does that work when you have them reporting to a project where the owner’s criteria might be different.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; That’s something that we realized partway through. That part of the challenge of doing it the first time is — because you don’t know how they’re going to respond to things — it can be hard in advance to say “this is the goal point”. Because they’re on a racetrack that is allowed to move. So it’s hard to figure out where the finish line is.&lt;/p&gt;
+
+&lt;p&gt;So what happened for us, is that in week six or seven, John, Ted, Derek and I were chatting. And we realized that we have a lot of qualitative thoughts about them. Y’know, “person A is doing this, person B is good at this.” But not a lot of quantitative “they can’t do this, they can do that.” And so, from that conversation the thing that we came up with to start trying these ideas of mini-challenges. And the way that we viewed that was we tried to segment out three of the biggest areas we need folks to be competent in. And for us, that ended up being really Full Stack PSD to Coded one page site, and a kind of Mini-Blog, and then François gave them a pretty basic Backend Task all in PHP.&lt;/p&gt;
+
+&lt;p&gt;And they each get to do each challenge, and they each get to be assessed by a different engineer. And so by the end of those three days, we have an unbiased (at least as unbiased as we can make it) datapoint from each engineer on each apprentice in three different skill areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; I think how we started was that we started in the very beginning with more learning and less evaluation. We wanted to throw people in the deep end without heavy evaluation, and just push them in the right direction. And I think as you get further, you’ve got to start evaluating.&lt;/p&gt;
+
+&lt;p&gt;What we were having trouble with — well, I wouldn’t say trouble. When you get to bigger projects, they tend to cover everything, or more of everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: They cut across concerns.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah. And so the issue then can be that it sometimes becomes hard to evaluate what the actual holdup was in a project. Especially when you’re working with Wordpress as an example. It’s a framework where everything is so intertwined — frontend, backend, PHP, and so on — it’s not a clear set of backend classes and frontend code.&lt;/p&gt;
+
+&lt;p&gt;And so it gets hard to figure out where everyone’s strengths are. So what Brent was saying is, we did [the evaluations] and those are great to evaluate where you are as a whole. As in, as a junior level developer, will you be able to do these projects. But what we wanted to do is really isolate where people were strong and weak, so we can target those things for that person moving forward.&lt;/p&gt;
+
+&lt;p&gt;And that’s where we broke it up, and started to evaluate on specifically frontend tasks, specifically backend tasks, and then kind of hybrid full-stack tasks. That helped us to evaluate who was strongest in what area, and then what they needed to get better at individually.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Makes sense. Another thing that you mentioned in the blog post was learning to support people in their mentor roles. I think it’s interesting, because I think we forget that sometimes. That it’s not the same skill as doing engineering. Could you talk a little bit about what kind of support they needed, and what they responded well to?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; Yeah, it’s important to lay foundations and principles for how to support somebody, right? Because engineers haven’t typically done that. For instance, I went to journalism school — a really great journalism school at University of Missouri. And almost everybody that taught me was somebody from the field. Some great award winning journalist.&lt;/p&gt;
+
+&lt;p&gt;Half of them were awesome professors because they were smart and had all these great experiences. Half of them weren’t because they weren’t teachers. They weren’t people that could actually convey their knowledge. So, with us it was really the reason and the impetus for bringing Brent in as a really early hire in a thirty person company. Because we realized that doing isn’t always the same as teaching. And education is a really valuable resource, and if you want to double down on it, you can’t just do it by talking. You need to make some smart targeted investments in that area.&lt;/p&gt;
+
+&lt;p&gt;So, I have a simple answer to that, which is that’s why Brent is here. That’s why we have a Director of Education, whose life has been devoted to education, so that we can support how to actually convey all this smart stuff that we’re doing and how we bring people up to speed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; The only thing I would add there would be that the thing we’ve learned was the difference between teaching and mentoring. I think a lot of our engineers, certainly John and François, were pretty well prepared to mentor because they’ve had to already. A lot of our engineers here have been here for a while, and worked together. You see them sitting there asking questions back and forth all day.&lt;/p&gt;
+
+&lt;p&gt;But teaching a group of three or more at a time is a different thing. Learning to structure a session. What we can do with a group of folks, versus what we can’t. I think those are the things that over time we’ve had to get better with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; And we’re still learning that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah, I mean when for several years I was the only engineer here. A long time ago, but I was the only engineer. Every engineer that’s come through here since then, I’ve probably had some role teaching them. Sometimes a lot, sometimes a little, but something. And mentoring.&lt;/p&gt;
+
+&lt;p&gt;So, I knew how to mentor and teach in those informal environments easily. But it’s a totally different thing to do a lesson with a group of people, and being able to move forward. And making it easy to consume whenever you can’t go hands on with every person in the group. I think that’s where Brent became super valuable for the mentors specifically. Teaching us how to do that and adjusting how we work. Just tweaking what we thought would be right, and getting it all finely tuned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: It seems like the experience of teaching makes it possible to take somebody who’s going to be even more junior. But it makes sense that when it’s &lt;emph&gt;more&lt;/emph&gt; junior and a &lt;emph&gt;larger&lt;/emph&gt; group.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Exactly, that’s the thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: You had three in your original class?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah, three.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; But it gets even bigger sometimes. We had a session teaching git to engineers…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah, sorry, there’s three apprentices, but oftentimes our classes would have all our engineers in there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Oh cool. So, using that opportunity to bring other people up.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah, we’d bring other people in, because there are other things where everyone has their own specialty or experience. And so a lot of those classes were valuable for full-timers as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; And as you’re talking through the value of programs like this, I think that’s a huge one that we somewhat expected but got even more value out of it than expected. Which is that it causes some self-analysis about best practices. And causes you to get your own stuff together because you’re going to be teaching it. You can’t teach proper usage for internal git if everyone works differently.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: *laughing* If you don’t &lt;emph&gt;have&lt;/emph&gt; a proper process.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; Yeah. So there’s a quality assurance aspect of this. That I think is super important and I think is one of the best values we got out of it. Causing us to do some introspection about the best way to do things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Are there other lessons that you learned in the process of running this first class? Things you think you might adjust a little bit in the future when you run another class like this?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; We went through a pretty good process at the end, with the engineers and Ted and Derek, and the apprentices. I’ll tell you one thing; it’ll be great to have someone who was an apprentice already.&lt;/p&gt;
+
+&lt;p&gt;In terms of the way we think about it slightly differently in the future. I think we have significantly more clarity on exactly what we need from a candidate coming in and coming out. So I think that’s a huge change for us. And I think the shift to be more event-focused. Those would be two of the biggest changes from my end. I’m sure I’m forgetting one or two of the things we talked about…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah, just focus in general. A piece of what we were trying to figure out was that a lot of these junior people come from bootcamp and so on. And we’re trying to figure out those gaps in things they didn’t pick up in their programs.&lt;/p&gt;
+
+&lt;p&gt;And we figured out that they’re good at one thing, whatever they were taught. But if you tell them “alright, I need you to go build a site from start to finish and launch it”, they have no idea. Most, typically, they can code the website, but they certainly can’t &lt;emph&gt;launch&lt;/emph&gt; it. They usually have a harder time with frontend code than with backend code. Just little things here and there that you’ll find. So we’re trying to fill those gaps, and where we focus our program I think we’ll tweak slightly just to hit the right point in terms of what they need to learn to get to a point where they’re totally self sufficient.&lt;/p&gt;
+
+&lt;p&gt;I think we ended up focusing a little more strongly on backend development this time, and I think next time we’ll focus a little more on the frontend and javascript. Little tweaks like that; without going through it a few times it’s hard to know.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; I think one of the biggest learnings for me is that a graduate from a bootcamp is very different from somebody who’s been tweaking stuff on their own on the side, or somebody who just graduated from a computer science degree but hasn’t built anything.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: *laughing* &lt;emph&gt;Very different&lt;/emph&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; *laughing* But they’re all very different, and so a typical junior engineer who comes in here before this is somebody who’s done a lot of HTML and CSS, has sort of learned frontend, has built a site for themselves, and is now looking to learn more of the backend. Bootcamp is very interesting because it’s the exact opposite.&lt;/p&gt;
+
+&lt;p&gt;They can do some really refined and impressive things with APIs, with custom backend frameworks, with ruby or whatever it is. But they need to be brought up to speed on a lot of the stuff that I did when I was learning. You have to make sure that it’s tailored to somebody’s background, because people aren’t one thing, right? People have &lt;emph&gt;very&lt;/emph&gt; different backgrounds.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; I always under the assumption that you learned HTML first, and then you learned CSS, and &lt;emph&gt;then&lt;/emph&gt; you dived into all these other things. The backend, the server side languages, but it’s just not true for a lot of people. So we had to…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I know a lot of bootcamps start on just &lt;emph&gt;plain&lt;/emph&gt; ruby, not even frameworks.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; Isn’t that funny?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah. I think it makes sense in the context of… “this is an if/else statement, this is a loop”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Kind of universal programming stuff. Very little markup. And most people you’d think they’d learn markup first. That’s just how they did it. In junior high I took markup class.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I think we may have started in a different era of the internet….&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; *laughing* And that’s fine. I think the big gap right now is that there are a lot of people who are interested in the frontend. And there’s a big gap between that aspect and the engineering people. And bootcamps are filling that gap and getting more people to be interested in that part, I think that’s a great thing. It’s just &lt;emph&gt;different&lt;/emph&gt; than what we expected.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So, last question. What does the future of the program look like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brent:&lt;/strong&gt; I think the thoughts about Clique U come from some of the things we did well in the apprenticeship. And have gone well in Clique U in general. And some of the things we learned we didn’t do well and maybe needed to change. And literally some product-market fit kind of stuff. And when I look at the future and when I talk to you and François about what we need, and the business needs. It seems like two things are clear.&lt;/p&gt;
+
+&lt;p&gt;One, having a little bit less structured &lt;emph&gt;monolith&lt;/emph&gt; program is going to be part of the next iteration of the program on the apprenticeship side. What that turns into we don’t know, but I think it’ll be a little bit less structured. And that’s responding to what Derek and John were saying about not knowing what the input is going to be. If you don’t know what the puzzle pieces are, you’re not going to be able to put the puzzle together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: You’re not sure where you’re starting…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Brett: Exactly! So that’s a thing for us. And the other thing is that we see out in the ecosystem is that there are a lot of people that need. There’s &lt;emph&gt;all&lt;/emph&gt; these people coming out of bootcamps, and there just aren’t enough ways to ladder up to level two. And I think that took us to what I think we’ll try more in next quarter or so, which are more series of trainings. We’re getting ready to do a Node workshop with the Startup Institute. Specific tools that we use, whether it’s a framework we’ve developed (&lt;a href='http://ui.cliquestudios.com/'&gt;clique.ui&lt;/a&gt;) or whatever. But a short burst of things will I think be the next iteration. And depending on how that goes, then I think three six, months down the road when we have the hiring need (which is a thing we didn’t focus on quite enough), then we look at “okay, do we consider the full apprenticeship in the same version again”? Or what does that become?&lt;/p&gt;
+
+&lt;p&gt;There’s definitely a step in-between, which is exploring the external ecosystem more. Because in a perfect world, we’d find a way to marry the external ecosystem with apprenticeship, which is great both for them in terms of job preparation, but is also better for us in terms of prepation for them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; The last thing I would add is that where we are now for at least the next month or two or three, is responding to some thoughts that we had during the apprenticeship program. We had three people in a room learning a frontend framework, or learning git, or learning how to deploy something to a server. And every time I saw that room, I go “there are hundreds or thousands of people in Chicago who could benefit from this. Why are we doing it in this small room?” Right?&lt;/p&gt;
+
+&lt;p&gt;And as a company, we’re all very very big believers that the smartest people in a generation should be making stuff. They should be inventors, they should be engineers. They shouldn’t be people who sit in meetings all day. They should be &lt;emph&gt;creating&lt;/emph&gt; stuff. So we’re passionate believers that more people should be joining this ecosystem. And should be joining this evolution, or revolution, or whatever you want to call it in Chicago, of tech becoming a major player.&lt;/p&gt;
+
+&lt;p&gt;So to us, we were saying “How can we expand all those learnings, and expand that impact, and try to convince as many smart people that this is the industry for you because you can be creating things.” Because that’s the core driver behind all this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;John:&lt;/strong&gt; Yeah, that sounds good.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: *laughing* “Ditto”. Awesome, well thanks so much for taking the time to talk.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All: Thanks.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;aside&gt;Derek Nelson is a founder of Clique Studios. He Tweets at &lt;a href='twitter.com/derekcnel'&gt;@derekcnel&lt;/a&gt;, or you can check out his personal site at &lt;a href='http://www.derekcnelson.com/'&gt;http://www.derekcnelson.com/&lt;/a&gt;.&lt;/aside&gt;
+
+&lt;aside&gt;Brent Williams is the Director of Education for Clique. He tweets at &lt;a href='https://twitter.com/brentlwilliams'&gt;@brentlwilliams&lt;/a&gt;. He &lt;a href='https://youtu.be/WD4KNBwInl0?t=5m49s'&gt;recently gave a talk on the MAP program&lt;/a&gt; at Groupon, which you should watch.&lt;/aside&gt;
+
+&lt;aside&gt;John Gile is the CTO at Clique, managing the engineering team and acting as primary architect on custom builds. He does not exist on the internet but we don’t judge him for it.&lt;/aside&gt;
+
+&lt;aside&gt;Joe Mastey is a developer culture consultant and public speaker. He can help you make your engineers happier and more awesome. Who doesn’t want to be more awesome? You can find him on twitter at &lt;a href='https://twitter.com/jmmastey'&gt;@jmmastey&lt;/a&gt; or at his personal site, &lt;a href='http://josephmastey.com'&gt;http://josephmastey.com&lt;/a&gt;.&lt;/aside&gt;
+
+&lt;aside&gt;Thanks for reading! If you found this helpful, please share it. The more software apprenticeship spreads in our community, the better we’ll all be. ❤&lt;/aside&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams.jpg" /></entry><entry><title type="html">Case Studies in Apprenticeship Vol. 6 — Mike Jansen</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2016/01/28/apprenticeship-vol-6-mike-jansen/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 6 — Mike Jansen" /><published>2016-01-28T00:00:00-06:00</published><updated>2016-01-28T00:00:00-06:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2016/01/28/apprenticeship-vol-6-mike-jansen</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2016/01/28/apprenticeship-vol-6-mike-jansen/">&lt;aside&gt;This is part of an &lt;a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'&gt;ongoing series&lt;/a&gt; highlighting successful apprenticeship programs in the tech community. This time we’re talking to Mike Jansen, VP of Operations at &lt;a href='https://8thlight.com/'&gt;8th Light&lt;/a&gt;, a software consultancy headquartered in Chicago. For the last 9 years, 8th Light has built one of the largest and most successful apprenticeship programs in the software industry. Their practices and patterns show how apprenticeships can be a big advantage in the war for tech talent.&lt;/aside&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: First, thanks for taking the time to talk to me about your program.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, it’s a pleasure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Since you’ve been at this for so long, could you tell me how you got involved with the 8th Light apprentice program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; So, I guess I got involved when I joined the company. I came to 8th Light when we were maybe fifteen people. This was early 2011, and we had just opened up our Chicago office downtown. I was working at a medical software company, Epic, up in Madison, Wisconsin and was programming, but I was also doing project management and technical support. We moved down to Chicago, I wasn’t quite sure what was next for me.&lt;/p&gt;
+
+&lt;p&gt;With my contract I had about a year of a non-compete, so I couldn’t stay in the same career path, so I was contemplating. Should I go back to school to get a formal CS education, which involves spending money (which I wasn’t a huge fan of)? Or what else is out there? Something I can learn on the job, sort of grow with the other skills that I had. I had background in support in software, debugging software, writing software, but not very formal in terms of the depth and breadth of knowledge.&lt;/p&gt;
+
+&lt;p&gt;And I talked to 8th Light. I had all this experience in supporting other systems, and just sitting down and observing those best practices in clean code and test driven development, and it clicked. Within fifteen minutes I was sold on it. I decided that this was the way I was gonna write software.&lt;/p&gt;
+
+&lt;p&gt;So I got an offer for an apprenticeship, which was about five months long. For me, I think that was the right amount of time. I had enough time to learn how to write clean code, and how to test drive my code well enough to join a project with a team of software craftspeople. From there, I was off running. I started working on projects, I took an apprentice of my own for a couple months. And at that point, we really started to grow the company by leaps and bounds. That year, we took another ten or fifteen apprentices. In the four years since we’ve grown from fifteen when I joined, to about eighty-five now. Across not just Chicago, but London, Los Angeles and New York.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Awesome. And, I just wanted to point out that, you’ve mentioned in the past that everyone comes into 8th Light via the apprenticeship.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, this is something that is personally important to me. I had a lot of experience coming in, but even if you have a lot of experience writing software for other companies, it’s important to understand how to write code the 8th Light way. One of our biggest strengths as a company is that our teams are focused on writing clean code, they’re focused on product delivery through that mechanism, and understanding what you’re getting yourself into is really important, so you know what kind of code we write.&lt;/p&gt;
+
+&lt;p&gt;We always have that consistent experience with our teams. So you can switch teams, and it’s only the domain that changes. The practices are still the same. You can rely upon your teammates to have the best interests of the code base. Versus them trying to play, y’know, we don’t have any hero coders here. And we’ll work hard to get the job done, but it’s about the project, not their own ego.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: What kind of resources do they get as apprentices? What kind of stuff are they working on?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; So yeah, the current structure is really to have a mentor and what we call a co-mentor. This is someone who maybe just finished the program themselves. We certainly subscribe to the idea that having a smaller skill gap can be very valuable, because that person can relate to the person they’re teaching or mentoring a little better than someone that’s got years and years of experience. So that mentor/co-mentor balance has been really valuable for us, and it’s a consistent part of the program, even though four and a half years ago, it wasn’t part of mine.&lt;/p&gt;
+
+&lt;p&gt;So as far as what the apprentice receives, we have a list of skills — a bit like a syllabus, I suppose — of the areas to cover in the apprenticeship. It includes test driven development, design patterns. Working in at least three styles of languages — dynamic, static and functional — as a way to understand the different paradigms that exist. Even if you don’t end up writing Clojure day to day, understanding immutability well has a really positive influence on the OO code that you write.&lt;/p&gt;
+
+&lt;p&gt;And it’s a pretty fast pace. We’ll go through some typical exercises, some solo projects you can work on. That gives them practice at delivering in a regular fashion to the customer — their mentor — and then some deeper dives. You know, the HTTP server project is a hallmark of our apprenticeship program, because it’s a big enough problem that you can’t just power through it. You have to understand the domain, and go back and implement the right patterns in order to make it sensible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: There’s an interesting line between that and, say, toy projects where you can get it as wrong as you want, but you can finish. This is a problem where, if you get in enough trouble, you can’t power through.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, with one of our apprentices (now a craftsman), he did a really good presentation about it. He said it’s a project where it’s a really good idea just to restart from scratch about halfway through *laughs*. Because you’re trying to test drive, you’re trying to recall the best practices, but you don’t have any idea what you’re doing, from the time you start on it, so it’s really -&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So you spike the first half.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, it’s spiking, but without knowing you’re spiking. I think it helps us emphasize the really important parts of the way we do work, too, that you can’t get attached to your code. If you start getting emotionally attached to your code, you lose a lot of time. That’s really bad. That’s not going to manifest itself until you’re doing a project and pushing against a deadline.&lt;/p&gt;
+
+&lt;p&gt;And that’s the sort of one way our apprenticeship has a common format. In other ways it’s pretty loose. I say that everyone’s apprenticeship starts the same on day one, and by day two it’s totally unique. It’s about what the person needs to learn at the time. We have an opportunity to keep layering information on top of other information. Maybe in a CS program, you’ll get courses and chunks, and all contained to themselves, but they don’t really build upon one another. We try to layer as much in, as far as project delivery, programming, best practices throughout the project, and throughout the apprenticeship. So it’s never just one thing that you’re learning. It’s always a number of lessons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That makes sense. Do the mentor styles end up bleeding over into the apprentice’s style?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, absolutely, I mean, we have some mentors that are more into working with Objective C, and Swift and mobile development. They use that as a way to build up some project, or you’re building up your HTTP server. And now you need to have a layer that your mobile application can talk to, or query some kind of data. You start to understand the idea of services more clearly. What should be in your mobile client, versus some service somewhere.&lt;/p&gt;
+
+&lt;p&gt;That affects someone’s experience working on projects. what kinds of things have I screwed up? What have I benefited from in project work that I want to share before someone starts some project work themselves? For myself, I know from leading projects that punctuality is very important. That overcommitting is going to put you in a really difficult spot. And so from the very beginning, I will challenge my apprentices to always keep to their commitments. But I also know that they’re going take on more than they can deliver in a week’s time. And there’s no changing that.&lt;/p&gt;
+
+&lt;p&gt;So I’ll let them keep on committing, and I’ll keep on asking for more things as the client. And they’ll keep saying yes, but eventually they just can’t deliver it all. And then we’ll talk about it. You know that you can’t get this done, so why did you overcommit? Now you put yourself in a position where you’re behind schedule, and you have to build back credibility with that client.&lt;/p&gt;
+
+&lt;p&gt;And so it’s easy during the apprenticeship to switch between mentor and client in those meetings, to be very intentional about, imaging this is a client, and you just overcommitted by half, versus saying what you could get done, delivering, and having that constant credibility of “what I say will get done, will get done.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That makes a lot of sense.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; That’s an example of how my experience as a craftsman has impacted my mentoring style. Every apprentice learns about over-committing, but when I mentor an apprentice, I tend to emphasize that very early in the apprenticeship.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That’s interesting. It’s been consistent that it’s not just technology skills, it’s not how you use Rspec. It’s about that software craftsman. Which is probably harder than other languages we’re actually learning.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, I mean it’s, yeah. *laughs* We’ll keep the topic on apprenticeship, yeah.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: *laughs* Different rant for a different day. Are there any big changes you’ve made over the last handful of years, that you might not have anticipated up front?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Well, the explicit shift to co-mentoring is a very noticable change, and a very positive one overall. I forget even how it happened at this point, but one day, everyone’s doing it. And so we started planning for that.&lt;/p&gt;
+
+&lt;p&gt;And at the end of the apprenticeship we have a review process, where someone can demonstrate what they’ve learned. We’ve also learned to be very explicit about checkpoints throughout apprenticeship, where you’re demonstrating what you’ve learned, and that also serves as a really excellent time for feedback, not just for mentors involved, but from other craftsmen too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: There’s a demo to a larger group of people?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; It could be a demo, it could be a talk, some presentation of knowledge. In software that could be through the code itself, through looking at the git history of how the code’s evolved over time, looking at pull requests and the comments on it. It could be, though, how well does someone write about what they do? Can they communicate their knowledge well? Those things are just as important in a team setting, and with clients, as the code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: In the other direction, having what is the most successful apprenticeship — at least that I’ve ever heard of, I don’t know if anyone else has done more than 85.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; We’ll just say that’s true.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: *laugh* Where do you go from here? What are you looking towards in the future of the program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; When it comes to “apprenticeships” more traditionally speaking, an apprenticeship isn’t something that you learn in a year, and then that’s it, you’re done learning. Apprenticeship can be seen as a seven year process. We’ve been thinking about how long it really takes to master all the different components of a job. There’s a lot to learn across a lot of fields, and it would be arrogant of us to assume that we could teach that all in twelve months’ time.&lt;/p&gt;
+
+&lt;p&gt;I think as a company, what we’re trying to do is constantly push out this path of shared knowledge, so we can have a seven year continual learning plan. Maybe it’s not called an “apprenticeship” once they become a software craftsperson at 8th light, but it’s still being very intentional about these things. Learning to specialize in some specific areas, versus learning more generally.&lt;/p&gt;
+
+&lt;p&gt;You’re gonna have these long loops. You can learn a lot very quickly in 6–12 months, but it can take you years to learn some things really well. It’s about how we sequence these things, how we provide those opportunities, and how we continue that process. So that it’s not just sort of leaping from a very structured environment to one that can feel very open ended. And so part of that we’ve just been doing for nine years.&lt;/p&gt;
+
+&lt;p&gt;We believe that no matter what the core components are having a team that cares about what they do, and being surrounded by colleagues that want to do the same kind of job that you do. That itself is about 75% of it, but that other portion is really important, and so we’re constantly reevaluating how to best provide that structure, and opportunity and resources for people to continue to grow over time too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: One other question. The purpose of these interviews is to help companies that feel a little bit nervous about starting an apprenticeship. Is there any advice you can provide for a company in that spot?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; If you join a team of developers and it’s not clear what they value — what their coding style is, what’s important to them — it’s truly hard to communicate that to someone who’s coming in fresh to the organization. If you’re looking at starting an apprenticeship program, it’s your chance to now impart your knowledge and ideas of what you think good software could be. And if you can’t communicate that internally, then how do you expect someone that’s coming in new to understand that implicitly?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That’s fair.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; I don’t think that it has to be an immutable codification of values. We’ve got people that worked on the Software Craftsmanship Manifesto, and we have our principles on our website, but these are changing things.&lt;/p&gt;
+
+&lt;p&gt;We constantly reevaluate this. If you can, as a team of developers, communicate amongst each other what you value, what you want, what’s important for someone else to learn when they come in, that’s gonna be a real advantage to having someone come in understanding what it is your team does, in addition to learning all the things they need to know about being a good programmer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I imagine it would be good for the rest of your team to understand that too.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Absolutely, yeah.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Alright! Great, thanks so much.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mike:&lt;/strong&gt; Yeah, thank you.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;aside&gt;&lt;a href='http://www.jansen.io/about.html'&gt;Mike Jansen&lt;/a&gt; is the VP of Operations at 8th Light. He is &lt;a href='https://twitter.com/mjansen401'&gt;@mjansen401 on Twitter&lt;/a&gt;, and also blogs sometimes at the &lt;a href='https://blog.8thlight.com/'&gt;8th Light Blog&lt;/a&gt;. He can grow a beard in a way that Joe can only envy from afar.&lt;/aside&gt;
+
+&lt;aside&gt;&lt;a href='http://josephmastey.com/'&gt;Joe Mastey&lt;/a&gt; is a consultant helping businesses build fantastic internal education programs for their tech teams. He is as good at building great developers as he is bad at beards. You can &lt;a href='http://confreaks.tv/presenters/joe-mastey'&gt;watch his talks&lt;/a&gt; or find him on Twitter at &lt;a href='https://twitter.com/jmmastey'&gt;@jmmastey&lt;/a&gt;.&lt;/aside&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-6-mike-jansen.jpg" /></entry><entry><title type="html">Case Studies in Apprenticeship Vol. 5 — Matt Polito</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2015/12/02/apprenticeship-vol-5-matt-polito/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 5 — Matt Polito" /><published>2015-12-02T00:00:00-06:00</published><updated>2015-12-02T00:00:00-06:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2015/12/02/apprenticeship-vol-5-matt-polito</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2015/12/02/apprenticeship-vol-5-matt-polito/">&lt;aside&gt;This is part of &lt;a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'&gt;an ongoing series&lt;/a&gt; highlighting successful apprenticeship programs in the tech community. This time I’m talking to Matt Polito, a developer at &lt;a href='http://hashrocket.com/'&gt;Hashrocket&lt;/a&gt; who also runs their apprenticeship program. I met Matt via the &lt;a href='https://apprenticeship.community/'&gt;Apprenticeship Community&lt;/a&gt;, which you should also check out.&lt;/aside&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Thanks again for coming and talking to me about apprenticeship programs. Why don’t you start off by telling us about yourself and how you got involved with the Hashrocket apprenticeship program.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Sure. I was a developer in Chicago doing long term work at Obtiva, which had created a culture of apprenticeship and learning. And it worked its way into my persona, I guess.&lt;/p&gt;
+
+&lt;p&gt;When I started at Hashrocket we had an apprenticeship program, but it was a little bit different. It was started by another gentleman who took multiple apprentices at once — four at a time — and put them on client projects at a different rate. Nothing was hidden from the clients, they knew what they were getting. They knew their developer was learning, with the expectations around that.&lt;/p&gt;
+
+&lt;p&gt;These were projects that we might not normally have been able to take, due to financial restrictions. That gentleman left and those apprentices graduated from the program, and I believe all of them became &lt;a href='http://www.undercurrentatlanta.com/wp-content/uploads/2015/08/the-rocketeer-01.jpg'&gt;Rocketeers&lt;/a&gt;. Then that program died down.&lt;/p&gt;
+
+&lt;p&gt;After a while, I felt that it was something that we needed to continue doing for a number of reasons. I really enjoy the idea of growing the community and helping other people. The feeling of possibly giving someone a career in freelancing is quite good. I wasn’t given that, and I would have loved to have been given that opportunity, so I want to help as many people as I can.&lt;/p&gt;
+
+&lt;p&gt;So that’s what I brought to our CEO, and said “I really think we need to do this, and I’m happy to take on the responsibility”. We’re luckily in a company that really values our opinions and wants us to try out our most hare-brained ideas. Thankfully this one has really stuck.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: And so, when you took over, you mentioned you wanted to structure it a little bit differently than the last person running it. Can you tell me a little bit about the structure of the current program and what the differences are?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Yes. The program I developed is centered around a single applicant. I feel that taking more than one apprentice at a time is a setup for failure. I haven’t had much luck, and I haven’t seen much luck with multiples.&lt;/p&gt;
+
+&lt;p&gt;The program we takes developers and turns them into consultants. Not so much taking someone with some programming knowledge and turning them into a developer. So, we’re a development shop that has an apprenticeship, but it’s not the same as some other companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: How do &lt;emph&gt;you&lt;/emph&gt; structure the program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; All the apprentices have some experience already. The whole program is roughly six months, depending on the person’s experience. Roughly the first three months is my finding out where their skills lie and where we need to work on things. Developing new skills. Mostly on the programming side. And then the second portion — roughly the next three months — is actively pairing on projects, working on consulting skills, seeing how we interact with clients in different scenarios. As well as continuing to learn how to develop.&lt;/p&gt;
+
+&lt;p&gt;The first portion has three milestones. The first milestone is basically a baseline experiment that I give everyone. It’s very interesting because nobody ever solves the same problem the same way. So it allows us to tailor their learning directly to whatever they need.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: What is that assignment?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; That first experiment is creating a blog platform. Which may sound trivial, but we keep layering on other features that deal with, say, timezones or background jobs or external services. Every time it’s been solved differently, and we’ve had people not solve it in the time given. And it seems like if someone’s been given two days to knock out a blog, they’d get it, but that’s not always the case.&lt;/p&gt;
+
+&lt;p&gt;The solutions are always different, and everyone gets stumped on something different. Which is cool. Because we do the same thing every time, it allows me to say “here’s what we normally do, but we also need to focus on these areas.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Makes sense. So they finish the blog application, and what happens after that?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; The second milestone is basically a larger-scale application that looks similar. The third milestone is a full mock storycarding session and project.&lt;/p&gt;
+
+&lt;p&gt;So what I usually do is to find someone in the office with ideas that they don’t have the time to build. And we will take the apprentice as the developer on the project, and we take a designer and a product manager, and actually storycard that idea.&lt;/p&gt;
+
+&lt;p&gt;The person who comes up with the idea is the stakeholder, and we have an afternoon storycarding to knock out a week or two of stories. And then we take the apprentice through the full process. We actually design the app. It is managed by a project manager. Developers will run through the stories and check in with the stakeholder every day, like we normally would on a project.&lt;/p&gt;
+
+&lt;p&gt;And at the end, we hopefully have a new internal tool, or a little app. And just like real life, some of them are successful, and some of them just fall to the side.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Great. While they’re building this toy application, what kind of day-to-day resources do they have?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Our apprenticeship is a salaried position. We don’t necessarily consider you a Rocketeer yet, but you are a full time employee. With benefits and everything. So you are in our studio in a large room, but we are essentially paying you to learn. You’re not actively making the company money. And that does take more of a self motivated person. I check in with them every day to see how they’re doing, and make adjustments. But that person is for the most part doing things by themselves for the first portion.&lt;/p&gt;
+
+&lt;p&gt;That’s also a way for us to tell what kind of person we’re dealing with. Can I leave you alone and have you accomplish tasks?&lt;/p&gt;
+
+&lt;p&gt;You have full access to anyone in the room, though. We do have an open floor plan, so if I have a question, I’m just going to turn around and shout out and ask people what they think about that particular problem. The apprentices get to do the same thing. Also, just hearing conversations going on in the background is valuable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So they really have access to the whole team, as a sort of informal resource. You had mentioned before that you also give them some books and reading materials?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Yep. We’re primarily a Ruby shop, so I at least like to have the apprentices know that. Most of them do know it coming in. But when they first come in and they’re doing their first project, and they’re not actively working on something, I do want them to be reading the &lt;a href='http://smile.amazon.com/gp/product/020161622X'&gt;Pragmatic Programmer&lt;/a&gt; and &lt;a href='http://smile.amazon.com/gp/product/0321584104'&gt;Eloquent Ruby&lt;/a&gt;. I think those are two really good starter books. One being more about development and software in general, and one being a really good overview of Ruby. If they’ve read those, I swap in and out other books. &lt;a href='http://smile.amazon.com/gp/product/0321721330'&gt;Sandi Metz’ book&lt;/a&gt; is a really good one.&lt;/p&gt;
+
+&lt;p&gt;Like I said, you have to be actively learning yourself. I expect you to be reading and gaining as much knowledge as you possibly can.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Makes sense. You’d also mentioned before that you do some pairing. How do you get apprentices to a place where they can ramp up and gain those skills. Is that something that they’re learning as part of the apprenticeship as well?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Yeah, pairing is a learned skill. It’s not something to just jump into. It’s not just sitting next to someone else, and it’s exhausting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Heh, that’s true!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; So I encourage them to jump in if someone doesn’t have a pair, to be a little bit more outgoing. Sometimes someone is working without a pair. If you see that as an apprentice, you need to take that opportunity to jump in.&lt;/p&gt;
+
+&lt;p&gt;The worst thing that they can say is “no”, and I don’t think that’s terrible. Once in a while you will be in the middle of something and have to say “you know, I can’t really stop right now.” The majority of the time that person says yes, and it allows the apprentice to start pairing before the second portion of the program.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Makes a lot of sense. One other big question. I know Hashrocket focuses on having a sustainable pace, and specifically you get to do open source work in the afternoons. How do you monitor that pace with someone who feels maybe behind the eightball. How do you keep it sustainable for them?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Friday afternoons, we get to work on internal tools, and open source projects. Occasionally bugs or projects come up, but for the most part we’re pretty strict in making sure that people get to do the things they want to do. And for the apprentices as well. I don’t expect them to be constantly working on things. I expect them to be doing the work I assign them, and to have a toy project that they’re able to try new things on themselves inside of work, and when they don’t have anything assigned, outside of work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Personally speaking, when I ran a program, one of the problems was that folks were so eager to get up to speed, that they would work themselves until they were too tired to do it anymore. Do you have any problems with people working a normal pace, or does being exposed to an office where people are working a sustainable pace seem to solve that problem?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; It does. It presents its own challenges, but moving too fast isn’t one of them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Oh good!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Heh, occasionally we have someone who’s super eager, and tries to knock everything out right away. And that’s just a challenge for me to assign more appropriate tasks. That’s another thing that I can get data out of and tailor the program to them.&lt;/p&gt;
+
+&lt;p&gt;But we do live in Florida, the beach is right across the street. So it’s a bit laid back. If anything, it’s getting people into a mode that they need to be professional all the time. We’re very laid back, and we’re very family oriented. You spend more time at work than at home, so you have to enjoy the people you work with. And that can get people into a routine of being laid back, which sometimes we have to guard against a little, especially when you’re newer. We have some people come in and put their feet up on the desk, and I have to adjust that expectation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Just one more question for you: Do you have any suggestions for other companies that are looking to start an apprenticeship program, and maybe hints for them to be successful?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; I think &lt;a href='http://smile.amazon.com/gp/product/0596518382'&gt;Dave Hoover’s book&lt;/a&gt; on apprenticeship is really good. I’ve read it now, though I hadn’t at the beginning. So much so that because I had a relationship with Dave, I was able to just call him up when I started the program, to throw some ideas against him and see what stuck. And the actual question I had asked was “how do you feel about the newly graduated apprentices being responsible for the next apprentices?” Because I felt like there was less of a knowledge gap between the two, and I felt like there could be a better connection in learning.&lt;/p&gt;
+
+&lt;p&gt;And his response was “did you read my white-paper?” and feeling like I didn’t want to be dumb, I said “Yes!” even though I hadn’t read it. And it wasn’t until two years later that I had found the &lt;a href='https://s3.amazonaws.com/apprentice.us/Apprenticeship-Programs.pdf'&gt;white paper&lt;/a&gt; describing what an apprentice program could look like in his eyes. And it turned out that without much guidance I came up with a very similar program to what’s in that white-paper. And I assume that’s due to having been around that Obtiva culture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So go read the white-paper is the takeaway. That’s not the same as the book.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Yeah! What that has described I have found really successful. And eventually when I finally found it, I wrote him a letter saying “thank you so much for just taking a chance on me to put me in that surrounding that I could come up with this crazy idea by myself and be close to what you envisioned.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Great! Thanks again, I appreciate it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Matt:&lt;/strong&gt; Thank you!&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;aside&gt;Matt Polito is a veteran &lt;a href='http://hashrocket.com/team/matt-polito'&gt;software developer with Hashrocket&lt;/a&gt;, as well as a contributor to many open source projects. You can find him on &lt;a href='https://twitter.com/mattpolito'&gt;Twitter&lt;/a&gt; and &lt;a href='https://github.com/mattpolito'&gt;Github&lt;/a&gt;.&lt;/aside&gt;
+
+&lt;aside&gt;Joe Mastey &lt;a href='http://josephmastey.com/'&gt;helps companies build fantastic technical teams&lt;/a&gt;. He also does public speaking, which you can see at &lt;a href='http://confreaks.tv/presenters/joe-mastey'&gt;Confreaks&lt;/a&gt;. He’s also on &lt;a href='http://twitter.com/jmmastey'&gt;Twitter&lt;/a&gt; more often than he should be.&lt;/aside&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-5-matt-polito.jpg" /></entry><entry><title type="html">Case Studies in Apprenticeship Vol. 4 — JC Grubbs and Dayton Nolan</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2015/09/28/apprenticeship-vol-4-jc-grubbs-dayton-nolan/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 4 — JC Grubbs and Dayton Nolan" /><published>2015-09-28T00:00:00-05:00</published><updated>2015-09-28T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2015/09/28/apprenticeship-vol-4-jc-grubbs-dayton-nolan</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2015/09/28/apprenticeship-vol-4-jc-grubbs-dayton-nolan/">&lt;p&gt;This is the fourth installment of a series (&lt;a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/'&gt;1&lt;/a&gt;, &lt;a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/'&gt;2&lt;/a&gt;, &lt;a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/07/03/apprenticeship-vol-3-amelia-padua/'&gt;3&lt;/a&gt;) about successful apprenticeships. This time I’m talking to &lt;a href='http://thegrubbsian.com/'&gt;JC Grubbs&lt;/a&gt; and &lt;a href='http://www.daytonnolan.com/'&gt;Dayton Nolan&lt;/a&gt; of &lt;a href='http://devmynd.com/'&gt;DevMynd&lt;/a&gt;, a Chicago- and SF-based software consultancy. As an industry, we can’t rely on our old tactics to hire a diverse and skilled team anymore. By highlighting the successes of apprenticeships in the community, hopefully we can overcome the perceived barriers other companies have to starting their own programs.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Thank you for taking the time to come talk to me. First question, can you tell me a little bit about yourselves?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Sure. Hi, my name’s Dayton Nolan. I’ve been programming professionally for about seven years now. I started as a frontend UI developer, and sort of graduated slowly to the backend, and what they all call the Full Stack Developer now. So I’ve been doing a lot of Javascript, API ruby backend kind of stuff. Mainly frontend because Javascript is my wheelhouse. I also manage the apprenticeship program at DevMynd.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; I’m JC, I’m the CEO of DevMynd, my background is as an engineer. It’s sad but I started in 1999. So that dates me a little, I’m an old guy now. When I walk into companies and a lot of our clients, I see all the 23 year old developers and feel ancient. Anyway, I started the company about four years ago now with the goal of putting a different spin on software consulting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So what inspired you to start an apprenticeship program within a software consultancy?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; I had just seen it modeled really well a few times. Before I started DevMynd I was with a company called Obtiva which was purchased by Groupon back in the day. And apprenticeship was one of their big things, and I think they always had at least one or two apprentices on staff. David Hoover was one of the principles there, and obviously he’s big into apprenticeship. So when we started the company, it was a good way to grow the team, and teaching has always been in our DNA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; In general, I think it’s a problem for anyone in the software industry. It’s supply and demand, and it’s tough. So I think people are increasingly looking toward mentoring their own devs because there just isn’t a lot of senior talent that isn’t already in a job that they like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Do you find that there are new challenges in doing this in a consulting company, versus say a product company? A lot of the companies that I’ve seen are really product companies.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; I think for me, our experience and our talent is the thing we’re selling. We’re selling a solution to a problem that’s backed by really solid people. The ability to grow the team at the junior end, with hand-picked people who have more potential than skills, adds a lot of value to the team.&lt;/p&gt;
+
+&lt;p&gt;It gives us the ability to control and shape how people are developed. On the practical end of things, it lets us control the costs of the company by having junior folks. But the company gets a &lt;emph&gt;ton&lt;/emph&gt; of internal value by doing this. People love sitting down with the apprentices and teaching them something. I think it helps us reaffirm old knowledge all the time. And having people who don’t know all the solutions makes us re-think and re-imagine solutions, not just groupthink the same solutions over and over again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Yeah, it’s a sort of the “our strength is our weakness” answer is that being a consulting company we have a varying array of projects going on in the shop at a given time. And at times that’s an advantage because we can expose an apprentice to a lot of different stuff. At the same time, it may or may not align with what that particular apprentice or candidate needs at a given time. So that can be a challenge for us to say “well, this person needs to learn &lt;emph&gt;this&lt;/emph&gt; kind of thing.” Luckily nowadays there’s a variety of projects in the shop, so it’s increasingly less difficult to get people into the right kind of project to learn. But that can also be a challenge too, because depending on where the apprentice is at, you may not have exactly the kind of exercises. So sometimes it’s a matter of finding some way to modify a task in order to exercise those weaker muscles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I want to know a little bit more about it. It sounds like the apprentices are learning via a project that they’re on, as part of a complete project team?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Yeah. One of the things we’ve learned, we figured out, is that the most beneficial time spent for an apprentice is pairing. Pairing with a senior dev. And almost at that point, pairing with almost any other dev, even a previous apprentice or a junior dev. You learn so much more being steeped in an actual problem, as opposed to the concept of a problem. And if you have a good pair, they’re thinking out loud about how they’re thinking about the problem, how they want to solve it, the things they don’t know.&lt;/p&gt;
+
+&lt;p&gt;One of the things that immediately most apprentices will say is that they’re amazed that nobody is a magical genius, and they actually have to figure things out too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; And they’re like “oh, you mean you don’t just know everything?” And we have to be like “no, I know a set of steps to get me where I’m going.” And I think that’s the first thing that most apprentices get is that we don’t know everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: There’s this assumption that if you’re maybe five years into your career that all of a sudden complete solutions spring forth from your head.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Yep. So, pairing is absolutely the way to level somebody up quickly. That being said, I think the challenge is getting someone paired up on the right thing at the right moment. So to augment that, they have a personal project. Something where the problem space is not a big question mark, or it’s not something new to them. It’s a passion project. It’s also a place where they can kind of make a mess and nobody’s on the hook for it. So we split about 80/20 just to give them a space and say, “go ahead and work on your personal project. Get it as messy as you need to.” But you also have the strength of the team. You can say “oh, I’m trying to do X, Y and Z.” And they get the benefit of the whole team.&lt;/p&gt;
+
+&lt;p&gt;And if you don’t leverage your experience, one thing we want to avoid with the personal projects is having them go off in the corner, and play with some crayons, and nobody ever interacts with them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: See you in six months!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Yeah, and so what we hope to give them with that is to let them cut their teeth. And a lot of times what ends up happening is that they’ll be doing something during the week with their project, and they’ll go to their personal project and want to try it. In maybe a half-faked application they have. It’s an experimentation sandbox.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; With personal projects we make them build that project from start to finish. They have to come up with the idea, they have to write all the user stories for it. They have to pick architectural direction. Obviously the rest of the team does code review, but it’s really theirs to run how they want. And that gives us an interesting lens that we typically don’t get when they’re on a client project. How does this person behave when they’re alone? Do they go down rabbit trails, or stay laser focused on delivering the next thing? There’s a little more teaching that happens there that’s more directed than the sort of osmosis that happens when they get paired up with an existing team.&lt;/p&gt;
+
+&lt;p&gt;The other thing we like to do is put them in front of clients. They’re in our regular iteration planning meetings, and our daily standups with customers, right from the get-go. Because again, as a consultancy — that really values client-facing people — we have to train them on those skills as well. Those skills are often a little bit more subtle, and difficult to teach than the coding side of things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; And I think that’s one of the things that really sets us apart in our program from a product company — or at least in my imagination I suppose — is that we need a lot more out of them, and a lot of times being a solid technical person is just plain not enough. And I’d argue that’s the same whether at a product company or not. But a lot of times what makes a dev an extremely great dev is knowing how and when to push back. Knowing what to give in on, and what to stand firm on. Knowing that when a client says X that they mean subtly Y. And it’s those ephemeral kind of skills that you can’t get. You need to learn the technical basics, but…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: It’s almost easier to teach the technical basics.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Oh yeah, clearly. Because that other stuff is so subtle. And even our experienced devs — and myself — learn that on projects all the time. “Oh, I shouldn’t have said that like this to this person, because it caused this emotional reaction I didn’t want.” But the message what exactly what I wanted to say, but you have to find the right envelope. If you’re just technical, and you approach it like “no, this is the right answer, and you agree and implement.” Instead of being like “he took that the wrong way, and he’s disagreeing with me, not because he disagrees with this particular technology, but maybe because of how I delivered it.” And maybe I didn’t even mean to sound this way or that way. So there’s all kinds of interpersonal things that come into play day-to-day, you have to go down a path to really exercise the hard stuff, which is the interactions.&lt;/p&gt;
+
+&lt;blockquote&gt;They’re doing real client work. So they have a kind of a sandbox, but it’s also the real world.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So how do you evaluate that they’re done with the apprenticeship? I read that your apprenticeships last something like 3–12 months?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; Yeah. And I know that’s a huge swing. *laughs* We’ve seen some apprenticeship programs where there are very defined phases and a duration to it. It’s a little more regimented. For us, the sort of litmus test is really: can this person take a story and deliver it from start to finish on their own. It’s pretty basic. We don’t ask that they have to be able to do an entire project by themselves. They just need to stand on their own effectively with very little micromanagement.&lt;/p&gt;
+
+&lt;p&gt;Which is a fuzzy, hard to nail down kind of thing. We do have some measures. We’ve got maybe twenty or thirty things that we tend to look at.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; It’s more or less, you eyeball this list of traits that we see in a developer. And there’s a lot of things on that list, and a lot of it has to do with the day-to-day business of being a consultant, and not so much about the technical aspects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; And another big thing that I’m realizing just now, is that the ideal candidate really needs to control their own learning. We are the tree that the moss grows on, right? But the apprentice has to actually make that happen themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; We’re the bigger pond. You go to your bootcamp school, and you’re there to grow, and we’re the bigger pond you can throw yourself into in order to really grow and learn from people with a lot more experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; And we don’t throw people right into the deep end and ask them to stand on their own. We create a low…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Go for a water metaphor!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; Hah, yeah. I don’t have one ready. But it’s an environment where you really can mess up. You can go a little bit slower than everybody else, and that’s okay. And when you get stuck on something, and you need a little bit of extra help on a particular concept, we’ll find a way to help on that.&lt;/p&gt;
+
+&lt;p&gt;But the apprentice really needs to be in control of their own destiny a little bit. We’re not the kind of environment where you’re going to just follow a bunch of steps, and check off a bunch of checkboxes, and get somewhere at the end. And I think that mirrors the way we run our projects with clients. That’s what we expect of everybody, so we just expect the same thing from apprentices on a smaller scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; And we get similar feedback. The second thing that usually excites our apprentices is that they’re going to be working with real projects. They’re doing real client work. So they have a kind of a sandbox, but it’s also the real world.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Is there anything that strikes you as being not what you expected when you started these apprenticeships. I know JC you were already exposed to this stuff at Obtiva, and Groupon. But I find that things are really different once you jump into a program of your own.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; I think honestly the biggest thing for me was realizing that you can’t just teach them the technical things. Our first apprentice needed a lot of help on the soft skills and being a professional in front of clients. And I don’t think we did a tremendous job on helping him with that.&lt;/p&gt;
+
+&lt;p&gt;So, coming to the realization that we have to pick candidates that don’t need a lot of help on that, or be willing to give them that kind of education. That was for me the biggest thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Yeah. For me maybe the biggest surprising thing is that less structure… I thought “oh you do this, and then you do your ‘X’ skills, and then you learn your ‘Y’ skills, and then you learn your ‘Z’ skills.” And learning that letting them pair, sort of free-form, even though it feels kind of hectic and chaotic, it’s much more beneficial for them to see what it is.&lt;/p&gt;
+
+&lt;p&gt;Like JC said, if they’re autodidactic. If they’re learning on their own and doing their work, then we don’t have to manage that. But exposing them to the right things leads them to go home and to go off in the right directions when they’re doing their own learning. So the big surprise was not having to have a regimented list of things they need to learn to be a good developer.&lt;/p&gt;
+
+&lt;p&gt;You take someone who you already know is going to be a good developer, and you provide them with the environment to grow faster. We’re almost like an accelerator. We don’t take someone from A to B. We take someone who’s headed to B, and we put them in a race car.&lt;/p&gt;
+
+&lt;blockquote&gt;If your interview process is selecting to know SQL, and you know this, and you have five years of experience, then you’re going to get a very homogenous team.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Great. Last question: Is there something that you’d want to tell companies that are thinking of starting an apprenticeship, but can’t really get over that hump to get started?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; I would say, it’s supply and demand. How easy is it for you to hire a developer, let alone a senior developer. And talking about cost. You want a talented senior developer, well at least for now they get to write a blank check. If you want that really solid developer, you’re going to pay for that. Whereas you can grow your own talent pool, and they can grow with you. Instead of always having to go out looking and competing with other companies for this talent. You can foster your own creative center and grow what you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; I would say, go slow. Even if you’re a giant dev shop, start with one person. I think we’ve had one time where we had two apprentices simultaneously. I thought we would do that more frequently. And I actually find myself stepping back. We’re a team of 20 people, so we’re only able to take on one person at a time and give that person the attention they need.&lt;/p&gt;
+
+&lt;p&gt;So I’d say start slow. And the other thing I’d say is for teams that are struggling on the diversity front. Apprenticeship is a great way of starting to move to address that. We find that the gender and racial mix coming out of bootcamps and even universities is much better than the industry at large.&lt;/p&gt;
+
+&lt;p&gt;And so that’s one way you can start to move the needle for diversity. You have to watch out not to have all of your minority folks be on the junior end of your team, but it is one way to move the needle there. And sometimes it’s the only way to move that needle, if there just aren’t enough organic job applications. So if the team is struggling with that, it’s a big opportunity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; And it also gives you an opportunity to get candidates who are probably excellent developers and are really great on product teams, but maybe aren’t so great on a technical interview. There’s a wide array of different types of personalities that work well with development, and in software, and you need a range of those. If your interview process is selecting to know SQL, and you know this, and you have five years of experience, then you’re going to get a very homogenous team. Not only from a diversity standpoint but from a skills standpoint. That can actually cripple your development process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Well, thanks for taking the time to talk.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JC:&lt;/strong&gt; Sure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Thanks.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;JC Grubbs is the CEO of &lt;a href='https://www.devmynd.com/'&gt;DevMynd&lt;/a&gt;. You can find him tweeting at &lt;a href='https://twitter.com/thegrubbsian'&gt;@thegrubbsian&lt;/a&gt;. Dayton Nolan is a Consultant at DevMynd. He also tweets, at &lt;a href='https://twitter.com/daytonnolan'&gt;@daytonnolan&lt;/a&gt;. You can visit them during one of the many &lt;a href='https://www.devmynd.com/events/'&gt;events they host&lt;/a&gt; at their space in Chicago.&lt;/p&gt;
+
+&lt;p&gt;Joe Mastey &lt;a href='http://josephmastey.com/'&gt;gives tech companies an edge in the talent war&lt;/a&gt; and is also a hired gun for software projects. You can watch Joe’s talks at &lt;a href='http://confreaks.tv/presenters/joe-mastey'&gt;Confreaks&lt;/a&gt;, and he has often twet at &lt;a href='https://twitter.com/jmmastey'&gt;@jmmastey&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this article, please share or recommend it so that more people can see it.&lt;/p&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-4-jc-grubbs-dayton-nolan.jpg" /></entry><entry><title type="html">Case Studies in Apprenticeship Vol. 3 — Amelia Padua</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2015/07/03/apprenticeship-vol-3-amelia-padua/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 3 — Amelia Padua" /><published>2015-07-03T00:00:00-05:00</published><updated>2015-07-03T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2015/07/03/apprenticeship-vol-3-amelia-padua</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2015/07/03/apprenticeship-vol-3-amelia-padua/">&lt;aside&gt;For the third installment in this series (go see &lt;a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/'&gt;Part 1&lt;/a&gt; and &lt;a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/'&gt;Part 2&lt;/a&gt;), I’m talking to &lt;a href='http://twitter.com/@aapwild'&gt;Amelia Padua&lt;/a&gt;, a Software Engineer at Trunk Club. Amelia was an apprentice last year, restarting Trunk Club’s program, which now has several more apprentices. By discussing the good (and bad) parts of successful apprenticeship programs, I’m hoping to make starting an apprenticeship program a little less scary.&lt;/aside&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Thank you, first of all, for sitting down and taking the time to talk.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Thanks for having me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Just to start out, tell me a little bit about yourself. What your experience is, how you came to be associated with this apprenticeship program.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; So I… I’m trying to think how far back I should go. I’ll start with Dev Bootcamp. I did work as a developer a little bit before Dev Bootcamp, but I wasn’t gaining enough experience as a developer at my job at the time. So, I went to Dev Bootcamp, built up more industry knowledge, and I was able to reach out to Trunk Club. I originally was applying for an internship, because at the time they didn’t have an active apprenticeship program. But through talking to Mike Cruz, VP of Engineering, he kind of brought up the idea of an apprenticeship as opposed to an internship. I thought that sounded great, and so I said “absolutely, of course!” *laughs* Like, I’m here for the first thing, but I’ll take the second. So that’s kind of how it started, mostly through a conversation with Mike.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Trunk Club had an apprenticeship before that, though, right, prior to your coming on?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; They did, yeah. Our first apprentice, Jean started about two and a half years before I started. But there were only like four or five engineers at the time, so according to what I’ve heard, it was a very different company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; They were just starting out It seemed like he was just kind of getting in there and doing everything he could to help out in a lot of different areas. When I came on I think they were looking to make it a more formalized program. But Jean blogged a little more than I did. He blogged.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: *laughs*&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; I think when I started, since there was this bigger company, they tried to create more structure around it I think.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So tell me a little bit more about that. What was it like being an apprentice for Trunk Club.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; It’s a six month program, give or take. My colleagues always like to say that it’s up to the person. So if it takes a little less time, that’s fine. That’s great. But if it takes a little longer, that’s fine too, as long as there’s some progression happening.&lt;/p&gt;
+
+&lt;p&gt;But in general, it takes six months. We have a review every two months, just to see how things are going, give any feedback on both sides. We want to hear how the apprentice is doing, how the apprentice feels like the program is helping them, and so on. They start on a team, and as they start learning more about the company, after a month or two they come up with an idea for their own project. They spend the next four or five months working on a project that they champion and get other people excited about, and they work right away to get this idea into production.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So when you’re on the team are you mostly assigned bugs and learning on your own, or is it more formal education? What does that look like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; For me it was a little different than the apprentices now. We’re still figuring out ways to improve. When I started, we had a couple people who would rotate every couple of weeks from their normal team to a special team that would be the first line defense for bugs. And so I was helping them, bugfixes at first just to get to understand the system better. And then, after a couple weeks of that, it got into “here’s a story that you’ve seen bugs leading to so try to jump into that.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Oh, okay. So you were taking the little bug you did and expanding on it to make a larger fix.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Right, exactly. If possible. It didn’t always line up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That’s one of the hard parts about using real bugs.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Yeah. So then you get a card and you take as much time as you need to complete it. There’s no “get this done by tomorrow”. And I think the goal is to try to do as much as you can on your own. Read some code, try to figure out what’s going on, but at some point you should ask for help.&lt;/p&gt;
+
+&lt;p&gt;So it’s kind of ambiguous. It’s different for each person, but we’ll guide you to the next step.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So the resources you were talking to for help. Who were those people? Is it the bug team?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; At first it was, because those are the only people I knew. *laughs* But after a while, you kind of learn who to ask. Slack becomes your very good friend. You ask a question in the right channel, if it pertains to a certain team. And generally you’ll have a couple people jumping up saying “hey, I know this pretty well, I can help you”. That’s how you get to know a lot of people; you just ask a question and somebody will help you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah, usually there’s some expert for the system who’s like “yeah, I wrote that.” It’s a good way to start.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Yeah, exactly. You meet a lot more people that way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: You said that the original person who had come on as an apprentice did some blogging. You didn’t, and I didn’t make my apprentices either. Is there some kind of outlet where you can really put the stuff you’ve been learning?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; I was going to say, we definitely encourage to blog if possible, but it’s not a requirement. It’s hard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah. I always want to encourage people to have a journal at least. Even if it’s not released to anybody else.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Yes!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: We had Slack as well, with a private room for the apprentices, so they were a little less afraid of being seen not to know what they’re doing. It was super helpful.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; We have that too! It would have been great to have that when I was an apprentice. I had my own journal where I would write things down, but he apprentices now communicate and share a lot with each other in their own channel I think we currently have one. We had four at one time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Okay. How many have gone through the program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; I think it’s been about five people, other than me. Or maybe five including me. Around there. So they have their own channel, and they actually take it upon themselves to do lunch and learns.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Oh cool.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; And they decide “hey, I’m going to present on whatever topic, or get somebody from the team to present on” some topic they’re trying to learn. So they’ve been very proactive about figuring out how to spread knowledge, or ask for help. The apprenticeship channel is really active. There are a lot of setup issues like Docker.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: There are a lot of setup issues with Docker. *laughs*&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; *laughs* They’ve learned how to ask each other for help with that, and it seems to be where they go first and then they ask the team.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Are those lunch and learns with the whole organization or inside the apprentices?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Most of our things are for whoever wants to come, but it’s usually geared towards apprentices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Cool. You started with one person in the apprenticeship with five engineers. Now you have three or four apprentices. What kind of challenges have you found in that process, especially as you end up with more apprentices?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; I think the way we bring on an apprentice helps to mitigate some of the issues with having too many apprentices. We only bring on an apprentice when we have an engineer that volunteers to take them on. Or they say in an interview “I would like to take them on”. So they take that person under their wing, and we have plenty of work for people to sink their teeth into.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah, not running out of work. *laughs*&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Basically, yeah. *laughs* It can be challenging,especially if you have a deadline you have to get through. You don’t want the apprentice to have to hastily work on something they don’t completely understand. So there is a balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: And you had mentioned before the capstone projects. Which sounds like it has challenges of its own.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; I think that is the coolest and most challenging part of the apprenticeship program. The coolest thing is being able to come up with your own idea, you talk to all the end users, figure out a strategy for completing the project. And then it actually ends up in production and you see people in the company actually using what you’ve built, it’s kind of amazing.&lt;/p&gt;
+
+&lt;p&gt;The challenge with that is that you spend half of your time working on that, and half of your time on the team stuff. And it’s very challenging to stop what you’re working on, and switch gears. It’s rough. I think it’s rough for anybody, but especially somebody who’s just starting out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Definitely. When you don’t have confidence in your abilities, and you get stuck on a bug, it’s hard to just stop working on it anyway to do something else.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Yeah, right. I think it happens a lot. Especially, it happened to me a lot. Instead of half and half in one day, you’d spend a day or two on one topic, and decide to spend a day or two on the other side of the work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That’s a great idea.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; But everybody struggles with that time management thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I think &lt;emph&gt;literally&lt;/emph&gt; everybody struggles with that time management thing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; *laughs* Yeah. And then after a couple sprints, you realize “oh I should have spent more time on this thing, or I should have spent more time on this other thing”. It’s still something we’re trying to figure out I think.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Cool. And it’s nice because the capstone is still something that’s going into production. So it’s not a “waste” of time, per se.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; No. Hopefully not! Hopefully you made a difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So, are there other effects you’ve seen from having the apprentice program around, on other engineers?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Yeah, I think something that happens is you have a few people looking at a piece of code, or a process, and then other engineers have to be able to explain what’s going on. And if it seems kind of crazy to who you explain it to, then maybe we should rethink how that’s going. And that’s happened a couple times. Just recently, one of our interns asked “why are we doing it this way? This seems really complicated.” And we took a step back and realized it was a little too complicated, and we needed to rethink it.&lt;/p&gt;
+
+&lt;p&gt;So having fresh eyes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Right on. That’s all I’ve got for questions. Do you have any kind of final advice for companies that are potentially trying to start a program but are a little scared?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; I think the biggest fear is that you’re pulling someone along, as opposed to somebody’s helping you out. And I think I would see that person less as someone who’s going to produce lots of features quickly, and more as someone to help you look at your code and processes with a new perspective. And by the end of that process, your code will be better. And they’ll have the context to jump in and help out and continue your work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Awesome, thank you very much!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amelia:&lt;/strong&gt; Thank you!&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;aside&gt;Amelia is a Software Engineer for &lt;a href='http://www.trunkclub.com/'&gt;Trunk Club&lt;/a&gt;, and has recently started hosting the &lt;a href='http://www.meetup.com/Chicago-Apprenticeship-Meetup/events/224063398/'&gt;Chicago Apprenticeship Meetup&lt;/a&gt; at their space. You can talk to her on &lt;a href='http://twitter.com/aapwild'&gt;Twitter&lt;/a&gt;.&lt;/aside&gt;
+
+&lt;aside&gt;Joe &lt;a href='http://josephmastey.com/'&gt;helps companies build fantastic engineering cultures&lt;/a&gt; and is also a hired gun for software projects. You can watch Joe’s talks at &lt;a href='http://confreaks.tv/presenters/joe-mastey'&gt;Confreaks&lt;/a&gt; and talk to him on &lt;a href='https://twitter.com/jmmastey'&gt;Twitter&lt;/a&gt; too.&lt;/aside&gt;
+
+&lt;aside&gt;If you enjoyed this article, please share or recommend it so that more people can see it. And since you got this far, here’s a haiku:&lt;/aside&gt;
+
+&lt;pre&gt;
+  haiku can be fun
+  but they don’t always make sense
+  refrigerator
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-3-amelia-padua.jpg" /></entry><entry><title type="html">Case Studies in Apprenticeship Vol. 2 — Blake Thomas</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 2 — Blake Thomas" /><published>2015-06-21T00:00:00-05:00</published><updated>2015-06-21T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/">&lt;aside&gt;We’re talking about apprenticeships again. This time, I’m talking to Blake Thomas, a Senior Manager of Engineering here in Chicago. Blake and I worked together in the past on an apprenticeship program for a finance company in Chicago. By discussing the good (and bad) parts of successful apprenticeship programs, I’m hoping to make starting an apprenticeship program a little less scary.&lt;/aside&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Hey Blake, good to talk to you as always. Can you start off by telling us a bit about yourself and what you do?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Well, it’s great to talk about apprenticeship, it’s something I’m pretty passionate about. And anything for you Joe.&lt;/p&gt;
+
+&lt;p&gt;So, I’m a senior manager, which is one of those titles that could mean anything, and changes from company to company. For me it means I manage several teams of engineers and at the same time I drive a lot of initiatives in our department and in partnership with others. That’s a lot to say, so I usually just describe it as tackling challenges with non-obvious solutions. If they were easy, they would’ve been solved before they got to me. Actually, that’s part of how I got involved with our apprenticeship program.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Oh man, you’re good with a segue. How did you get involved with Enova’s apprenticeship program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Right, well… as a hiring manager, every once and awhile you come across a resume or a candidate where you think “Yes. Yes… Oh.” It’s one of those things where you see the right behavior, the passion, everything, and then you look at their skills or job history and you realize that if you were to hire this exceptional person you’d be setting them up for failure because they just don’t have the necessary knowledge or experience to do the job they’d want to do. It’s always a bit heartbreaking.&lt;/p&gt;
+
+&lt;p&gt;Well, I had one of those. But this was a unique situation because the person was an internal candidate — they worked somewhere else in the company but wanted to be a software developer. In this case they worked in our call center, which is a solid job and pays well but it’s also hourly pay and a set schedule, which you’ll see is important in a second.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I’m looking at this story, this person who taught themselves ruby using tutorials, pushed code to github, was going to meetups… I couldn’t just leave it at that I guess. So I reached out and started to make some arrangements, got them access to our floor of the building so they could go to our weekly tech talks and use our library, encouraged one of my senior engineers to do some pair programming… just generally tried to make resources available, as much as I could.&lt;/p&gt;
+
+&lt;p&gt;So, about five or six weeks into this we realized that this person had been coming into the office on one of their days off for the tech talks. That pretty much did it right there. Some brave person, who I wish was me for the record, spoke up and said we’re not doing enough, this is the kind of person we want to hire and we can teach them the rest. To my credit I guess I immediately saw the truth in it, so we put together an apprenticeship program that used our existing training program, but lengthened out the timetable and added a few things. Over time we built in mentorship and some other key pieces, but really it was a learning process for us as much as our apprentices. I use the plural there because not too long after the first we hired another, this time from an external source. Both of them have since been promoted, and we can really see the difference in terms of engagement and behavior. We’re planning on doing another round of two immediately after our current class of interns finish up, and we’ll scale the program from there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: You used the same curriculum as onboarding, but longer. How long? And how did the apprentices do with material that had been originally designed for more experienced developers?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Right, so I’ll answer the easy question first. We had no idea ahead of time how long it was going to take. We broadly estimated six months; we felt like we would at least know enough to call it a success or an eventual success by that point, or alternatively to say “it’s time to pack it in here.” In the end it took them right on about I think four and a half months, four months to get through the material for the most part. We’ve looked at the curriculum and we feel like with a little bit of reorganization that incoming apprentices are going to be able to do it in three, maybe a little over three.&lt;/p&gt;
+
+&lt;p&gt;The more interesting and kinda nuanced question is how the apprentices did with this material. Because you’re right, because of the nature of the curriculum, it’s designed to be this kind of self-directed curriculum with resources and pointers, and y’know, some coaching built in (or at least some opportunities for coaching). It was designed at least originally to be a kind of leveling and refresher course for more experienced engineers, which, y’know, the folks we’re talking about have a very wide separation in terms of experience, from folks who have gone through a traditional CS program.&lt;/p&gt;
+
+&lt;p&gt;In interesting ways, though. You might think, “oh, here’s a person with a degree in computer science. They clearly know more than this person who doesn’t have that”. But the truth is that they know different things. The folks who go through a traditional route have a very strong grounding in some of the theoretical stuff. They have a fairly good level of experience with some of the concepts as exhibited in more traditional, or older really, languages (C, C++, those kinds of things). What they don’t have, generally, is any kind of practical experience with shipping something. They may have used some form of source control, or maybe not. Depends on the program. They may have sort of stood up their own website, but that was completely orthogonal to their experience and curriculum usually.&lt;/p&gt;
+
+&lt;p&gt;And so it’s a very different set of experience, whereas the folks who are self taught, or go through a code school, and that’s what we’re talking about with regards to Stacy and Jill (&lt;aside&gt;ed: the first two apprentices&lt;/aside&gt;), they do it from a project standpoint by and large. So, Stacy was teaching herself how to build these websites, or how to build these applications in code, with the idea of standing up a website herself. And that’s what she worked on.&lt;/p&gt;
+
+&lt;p&gt;Jill was going through a code school, and so she was getting a kind of crash course in “here’s how you design for the web, here’s how you build a web application.” And it’s very much more — in both cases, in their own way — geared towards shipping.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Is that how you measure, then, that they’re finished? How do you decide that they’re “done” with this course of study. Especially if people who have ten years of experience don’t know everything in this training course.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; I don’t think there’s one good measure. I think that we don’t live in a cookie cutter situation, otherwise we’d just hire from one source. And I think that sort of monoculture is what’s gotten a lot of companies into a mess. So I think there are a number of ways that we can assess their readiness to take on a more traditional engineering role, or be responsible for product delivery.&lt;/p&gt;
+
+&lt;p&gt;One of which, maybe the least obvious to a lot of folks, is conversation. You just gain a sense of what they know. Talk to them, in the same way you might interview someone, but maybe a little bit less formal. A little bit longer, a little bit more engaged. Talk to them about what they know, and what they’re comfortable with. What they’re less comfortable with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Doesn’t that possibly introduce a lot of unconscious bias? The same kind of confirmation bias…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Absolutely. It absolutely does. I think that you would be really in a bad spot if you tried to claim that you were unbiased in this process. I think you would be really doing a disservice to everyone involved. I think the trick is recognizing the potential for bias and pursuing in as pragmatic and scientific a way possible.&lt;/p&gt;
+
+&lt;p&gt;So you talk to them about “what are you comfortable using. What did you struggle with. What did you have problems with.” You almost debrief them on the program and get a sense of how they felt about what they were learning. And then you try to line that up with their performance on some of the exercises.&lt;/p&gt;
+
+&lt;p&gt;You say, “well I can see here that you had some issues with branching, with source control. So let’s talk about source control. Where did you struggle with that? What was your experience with that? What was easy?”&lt;/p&gt;
+
+&lt;p&gt;Or you talk about, “look, I can see that you’re shying away from composition and kinda sticking to inheritance here. How do you feel about various object models? Do you feel uncomfortable about the idea of composition, or alternatively inheritance. Or do you feel comfortable with that?” If you have the data that you derive from their performance in these exercises, and you have the kind of empathetic discussion of how they felt with these exercises. You can figure out what they’re going to be ready to jump into, and what they’re set up for success for. In terms of their skills and their comfort level. And what are they going to need some more work on.&lt;/p&gt;
+
+&lt;p&gt;And at some point you just draw a line, because every engineer is going to be a little bit different. And you say “look, here are some areas where they could improve. But on the whole, they meet the criteria that we’re looking for in an engineer, based on this information.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: It sounds like there’s more of a continuum than there is a line where you’ve ticked one hundred boxes and now you’re a junior engineer.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Absolutely, and honestly, I said draw a line, but what I really should have said is, you take a notion of their holistic experience and you draw a line for them individually. And the only importance that line has is as a milestone for, “we’ve called you an apprentice until this point. Now we’re going to call you a software engineer.” And that’s the big change.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Explain to me how that bears out, given it’s a training program. So, I know they’re not working on production websites from day one. How do you make that transition?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Right, so what we did this time was a little bit different than I think we’ll do it next time. What we realized was, because of the nature of this exercise, wherein we were learning as much about how to run an apprenticeship as the apprentices were learning about how to apprentice.&lt;/p&gt;
+
+&lt;p&gt;We realized towards the end of it that, yeah, “we had you work on this capstone project. For the record you did a killer job. But there are still some areas we want to see you spend some time shoring up.” And so what I did, is I talked to both of them, and I did that debrief. I did a skills assessment, and I said, “okay, here are some areas that I want you to spend the next couple of weeks (literally, two weeks as it turned out) just doing your own kind of directed study.” And I gave them some resources for specific areas, and then had a conversation at the end of it about what they found, what they learned. What changed for them.&lt;/p&gt;
+
+&lt;p&gt;Once that had been completed, and we can talk about the formal process of them moving out of this apprentice role into a software engineer role, but once that had been completed they were, I will say, &lt;emph&gt;magically&lt;/emph&gt; software engineers. There’s no magic about it, but they fulfilled what we asked them to do, and the whole social contract here was, “look, we’re on the hook for training you. You’re on the hook for bringing the A-effort. And when we’re done with this, you’re either going to be full-time, gainfully employed software engineers, or we’ll know the reason why not.” And that’s how it turned out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: How do you plan to do it next time? What are you planning to do differently?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; One of the things we want to avoid is an open-ended conclusion of the program. That just has to do with the cost-conscious nature of product development these days. You’re always asking “when can I get more engineers. Aren’t those people engineers? Can’t they engineer something? Can’t we send them to make things?” So we want to bracket it. This time we’re allowing for a little experimentation, but the ultimate goal is to be able to finish this program in six months, consistently.&lt;/p&gt;
+
+&lt;p&gt;This next round we’re going to do something similar to what I did at the end of our first iteration. We’re going to do an assessment where we look at their performance on various exercises. We evaluate where they were good, where they struggled, do a debrief. And at that point, we’re either going to make the call to, “you know what, yes there are things you could work on, but every engineer has areas of skill where they could improve. Guess what, you’re a software engineer!”&lt;/p&gt;
+
+&lt;p&gt;Or, we’re going to specify some amount of time not to exceed three months where they can continue learning in a directed fashion to shore up those areas of development. The only way that we would elect to do that is if we had a really solid belief that, “here’s a person who is going to be successful, based on the arc of their learning.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: And importantly they’re getting decently paid during that time.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Yes, of course. Absolutely.&lt;/p&gt;
+
+&lt;p&gt;The difference is that as an apprentice, your compensation is going to be a little bit different than it is as a software engineer. There’s no two ways around that. One thing that I’ve personally discovered — and this is a really pragmatic matter, and every company is going to be a bit different. I’ll be honest with you, I think it’s a mistake to pay these folks hourly.&lt;/p&gt;
+
+&lt;p&gt;A lot of intern programs are very correctly hourly, because you don’t want to encourage these folks to overwork themselves and burn themselves out. It’s a little bit crazy. What I’ve found is that for folks that are working for months (and not weeks) that the distraction of thinking about hourly compensation — literally, wages and that kind of thing — it takes away from learning just a little bit. And I want these folks focused on just learning as much as they possibly can. And so, I think that this is something we learned about administering this program, that we intend to carry forward. Rather than being an hourly position, we looked at the concerns about it originally and we’ve made the call to make it a salaried position.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: You already mentioned a couple things you wanted to change. Make it a little bit shorter, the capstone, et cetera. Of course a big problem with a lot of programs is that we’re talking months of “unproductive time”. Can you name a couple things that weren’t working well, that you can change to make the program more effective that way?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; We really did take an Agile approach to this in a lot of ways. We had a training program that had the content we knew we wanted them to learn. But when we went into it, we had no idea what the end of this program was going to look like other than that it would be some sort of vague but bounded amount of time in the future.&lt;/p&gt;
+
+&lt;p&gt;And we realized as we got towards it, that we were driving a car that we hadn’t yet built the brakes on. And so we had to figure out how we want to wrap it up. And one of the things we decided based on some conversations with leadership, was that we wanted our apprentices to have an opportunity to show that they were delivering value, to address this question of value.&lt;/p&gt;
+
+&lt;p&gt;I understand that’s sort of a hot button topic for similar programs. We wanted to show that they were able to deliver value in the role of an engineer. What that meant for us, is can they take a project and deliver that project when it has very real implications for our business? Take it to production, literally deploy the application?&lt;/p&gt;
+
+&lt;p&gt;So we identified an opportunity to do that. It was a green field project. That’s not necessarily a requirement, but green field projects starting from scratch, there are certain characteristics that are nice for someone who is new to the field. We saw that opportunity and we capitalized on it. We said, “here’s this project, here are some stakeholders. We want you to work with them” both technical stakeholders and business-focused stakeholders, and they did.&lt;/p&gt;
+
+&lt;p&gt;Now the problem with that was that, being apprentices, they didn’t think to push back when someone in a senior role tasked with advising them started making decisions for them. By the time we were began to evaluate their work it was hard to discern how much they were able to execute on their own. So we had ask everyone to step back and let our apprentices figure out how to deliver features with a lot less intervention.&lt;/p&gt;
+
+&lt;p&gt;It’s true to say we don’t work in a vacuum, you always have access to senior engineers. But it’s hard to assess your skill level when you have so much outside involvement. So what we had to do ultimately was set up a period of time where, “Okay, you’ve worked on this. You’re a subject matter expert on this new application you’ve built. We’re going to take away the training wheels as it were, and let you ride on your own for a couple of weeks and see if you’re able to deliver the milestones that we spec’d out for you.” In the end they absolutely were. It was fantastic.&lt;/p&gt;
+
+&lt;p&gt;I wish that we’d done that from the get-go. I understand why it happened in the first place. We were trying to exercise a level of guidance and oversight that was both protective of the project and protective of the engineers. In the end, it was more of a hindrance than it was a help.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Do you feel like the scope is in a good spot now?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; I think we’re mostly in a good spot. I think there are some efficiencies we can gain with the curriculum a little bit. There are some practical things that the curriculum doesn’t have built in right now that we want to encourage.&lt;/p&gt;
+
+&lt;p&gt;One big area there is pair programming. We’re very big on that as a concept. We want to encourage that and treat that as a way of self course correcting. I want to encourage them to both do pair programming amongst themselves — apprentice and apprentice — but also to work with more senior engineers to get a sense of what it’s like to work with folks like that, what style of work they have, what expectations they have when you sit down with them. So that’s a component we’re going to build in.&lt;/p&gt;
+
+&lt;p&gt;There are other elements that we want to move around a little bit and emphasize along with the curriculum. Engineering principle and practices that we want to integrate into some of the larger exercises. We want to — you know, I have a little bit of experience with curriculum design and one of the things that we’re approaching some of our material with and retooling individual lessons with a notion of “understanding by design”. Which sounds really common sense when you lay it out. The idea is to articulate, “what do I want them to come away from the lesson with?” and work backwards. Some people will call it “backwards mapping”, but it is in fact a good way to make sure that you are not expending extraneous effort in a competing a lesson.&lt;/p&gt;
+
+&lt;p&gt;One example of what we’re looking at doing (we haven’t decided one way or the other for sure), but at one point we have them build an entire Rails application. Which teaches them lots of very useful things in a kind of drive-by fashion. The scope is larger than it may need to be, though, for the things that we want to teach them. What we we’re talking about doing was, rather than having a start to finish full Rails app that has certain characteristics that we build into the exercise. What if instead we give them a set Rails app,with an existing codebase, and ask them to add a model and a controller that meet some specs and include behavioral testing, interacts with an API, those kinds of things.&lt;/p&gt;
+
+&lt;p&gt;That’s just an example. The point of doing that is, a lot of the Rails application stuff that they learn in building it from scratch, is interesting and it’s good for them to understand those underpinnings. But there are potentially more efficient ways to teach that that don’t necessarily require this end to end experience. You can think of it — as an engineer — you can almost think of it as “why do I need to do end to end testing, when I can have good unit testing for each piece, and then compose them in a way that’s sensible. And then have some level of integration or behavioral testing.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So, changing gears a little bit. You mentioned that as the apprentices have moved into being full time engineers, you’d already noticed a difference in their engagement level, and also their behavior. Tell me a little bit about how that’s impacted the other people in the department as well.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; What I have noticed is that our apprentices have become a kind of rallying point. And what I mean by that is, however you want to cast them, as socially awkward or whatever, engineers are incredibly social. This is a common misnomer. They’re quite social, they’re quite motivated to be helpful and informative. And they just happen to be, for whatever reason, a very opinionated bunch in a lot of cases.&lt;/p&gt;
+
+&lt;p&gt;Well, as it happens, they love to answer questions. Whether they know it or not. Sometimes they swear off “oh I don’t want to help anyone”. But the truth is that they actually do. I don’t know, it’s an odd phenomenon that I could talk about for hours.&lt;/p&gt;
+
+&lt;p&gt;The point that I’m getting at is, having folks around who are eager to learn and eager to absorb information, causes this weird shift in culture. I’m not even going to call it weird, it’s actually pretty obvious when you look at it. It’s kind of a human characteristic.&lt;/p&gt;
+
+&lt;p&gt;We start to become more open, because all of a sudden there are people who want the information we have. And that opens us up to sharing it. And curiously enough, not just with them, but with everyone. And then we start talking about the things that we’re sharing, and the things that are important.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: How has this behavior played out for you? I know you do tech talks and so on. Is this something where people do more tech talks, or more informal information sharing?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; All of those things. People are eagerly getting involved in these kinds of opportunities, both with the apprentices and in general. Even down to conversations about technology that are happening on a more common basis. It’s a more common occurrence to hear people talking about, “you know I was looking at the updated documentation for such and such”.&lt;/p&gt;
+
+&lt;p&gt;Because, it’s interesting, and it’s interesting to think about and talk about. You know what it is, maybe, is their presence. The presence of learning, and let’s just call it learning in general, because that’s what it is. The presence of learning is just enough to cause people to look up long enough to realize and remember that they’re curious.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That’s great. That’s pretty much the &lt;emph&gt;definition&lt;/emph&gt; of engagement, right?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Exactly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I have basically one other question for you. What is the future? It’s obvious that you’re treating this as a pervasive part of the department, not just a few people in one room.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Yeah! You know, it absolutely is. If it were up to me, I would hire about seventeen of these people, and find a way to onboard them if I could. I think I mentioned this before, but if I didn’t I’ll talk about it briefly.&lt;/p&gt;
+
+&lt;p&gt;When you’re no longer constrained to hire for skill and experience, you can hire people that have the attitude and the behaviors and the characteristics that you’re really looking for. And the thing that’s interesting about these kinds of folks is that the truth is the things that make you successful in college and as a student aren’t always the things that make you successful in a professional context. There are commonalities, but this gives us a way to get a diverse set of attitudes and ideas, while hiring — instead of for the skills, and the specific technologies, and the experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Which are impossible in this market anyway.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; It gives us a way to say, not only is this person motivated, but they have a curious mind, they’re sharp. They’re ready to solve problems, they’re ready to work hard. I want to hire them even if they don’t know ruby just yet. Even if they haven’t written a dozen Rails apps, or maintained a dozen Rails 3 apps.&lt;/p&gt;
+
+&lt;p&gt;I know everyone’s on Rails 4 now…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I was going to say!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; No, but I’m making a very specific point. We need someone who has experience with Rails 3, and all these people know Rails 4. We can teach the skills and hire for the behavior and the personality, and the strength of character, and the human characteristics.&lt;/p&gt;
+
+&lt;p&gt;And that’s fantastic. So that’s one of the things that it changes, and I just wanted to comment on that. But your question was a little different than that. You were asking, “where are we going with this?”&lt;/p&gt;
+
+&lt;p&gt;So like I said, if I could I’d hire seventeen, but we need to prove that this is successful, not just for the two people we’ve taken through the program, but for two more. And then three more. And then five more. And that we can execute on this consistently, because the truth is we have a track record of hiring experienced engineers, and being successful. And we have a track record of hiring engineers out of school, and being successful. We have a track record of bringing in interns, and converting them to engineers, and being successful. &lt;emph&gt;This&lt;/emph&gt; is a new way to hire, and diversify the culture, literally, in a way that avoids this sort of monoculture of “oh we only hire engineers from this school in this program”.&lt;/p&gt;
+
+&lt;p&gt;So, we’re going to continue the program with an eye towards expansion. But for the moment, we’re going to focus on reproducibility. We’re going to go through a second iteration and try to tighten up our constraints and our execution a little bit in terms of the length and content of the program. Learn a little bit more, and once we’ve done that we’ll probably expand it modestly. So instead of doing two we’ll do three. Or if I can really convince someone we’ll do four or something like that, we’ll see.&lt;/p&gt;
+
+&lt;p&gt;We want to continue having this be something that changes our culture, that elevates everyone to this attitude of, not “how do I get out of the office today”, but “how do I learn something new and use it today”. And that’s maybe the biggest transformative effect, because when you see that happening you can’t help but want to be a part of it. And that’s really what we’re looking for, in software engineering, but really in the whole company if I’m being honest, at least for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Alright, cool. Thank you for taking the time out.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blake:&lt;/strong&gt; Absolutely.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;aside&gt;Blake is a Senior Manager of Software Engineering at Enova. You can find him on &lt;a href='https://twitter.com/dijjnn'&gt;Twitter&lt;/a&gt;, &lt;a href='https://github.com/bwthomas'&gt;Github&lt;/a&gt;, or any number of meetups that Enova hosts on a regular basis.&lt;/aside&gt;
+
+&lt;aside&gt;Joe helps companies build fantastic engineering cultures and is also a hired gun for Rails projects. You can watch Joe’s talks at &lt;a href='http://confreaks.tv/presenters/joe-mastey'&gt;Confreaks&lt;/a&gt; and talk to him on &lt;a href='https://twitter.com/jmmastey'&gt;Twitter&lt;/a&gt; too. He does not host any meetups, but them’s the breaks.&lt;/aside&gt;
+
+&lt;aside&gt;If you enjoyed this article, please share or recommend it so that more people can see it. Also, keep being awesome.&lt;/aside&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-2-blake-thomas.jpg" /></entry><entry><title type="html">Case Studies in Apprenticeship Vol. 1 — Coraline Ada Ehmke</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship Vol. 1 — Coraline Ada Ehmke" /><published>2015-06-12T00:00:00-05:00</published><updated>2015-06-12T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/">&lt;aside&gt;As part of my work helping companies build apprenticeship and internal learning programs, I’m going to start interviewing people who are already doing a great job of it. Creating an apprenticeship program can feel like a big investment, but by hearing more about the successes (and struggles) others are already having, I’m hoping to make it a little less scary for companies that are considering it.&lt;/aside&gt;
+
+&lt;aside&gt;First up is Coraline Ada Ehmke, who has been a consistent fixture in the Chicago technology and mentoring scene for a while now. She gave a great talk last year about apprenticeship at RailsConf, which is linked at the end of the article.&lt;/aside&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Hey Coraline, thanks for taking the time to talk. Can you tell us a little bit about yourself and what you’ve been up to lately?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Hi! My name is Coraline Ada Ehmke, and I’ve been developing apps for the web for about 20 years now. I spend a lot of time working with new developers: through apprenticeships at my job at &lt;a href='http://www.instructure.com/'&gt;Instructure&lt;/a&gt;, on behalf an organization called &lt;a href='http://www.cwdevs.com/'&gt;Chicago Women Developers&lt;/a&gt;, and also through one-on-one mentoring. Most of my effort is directed at helping and supporting women in tech and people on the LGBTQ spectrum. I’m passionate about making sure that people who are new to the field have the resources they need to be successful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Awesome. We’ve talked a bit in the past about how you’ve done apprenticeship programs both at Instructure and at previous jobs. Why do you find yourself choosing the path of investing so much time and effort into apprenticeships?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; I’m interested in the role that apprenticeships play in shaping the culture of software development. It’s hard to influence the overall direction that the community is taking, for better or for worse, but I realized that one way to effect change is by working with people who are new to the field. Helping them find what is important to them as developers and as individuals, and encouraging them to stay true to these values, changes the overall mix in the larger community. Knowing that, based on demand for people like us, we are in a privileged position of leverage means that we can exercise our values in a way that is meaningful. We can choose to support or not support a company with our work based on their overall character and culture. In this way we can shape the greater industry and bend it toward values we hold dear, like diversity of all kinds, empathy, and mutual support.&lt;/p&gt;
+
+&lt;p&gt;There is also the undeniable joy of seeing someone move from just being interested to realizing their capabilities as developers. It’s an amazing transformation that takes place starting with an apprenticeship or internship and moving through to their first dev job and beyond. It’s an amazing process and I feel blessed to play a part in it.&lt;/p&gt;
+
+&lt;p&gt;Overall, I think that investing in people who are new pays tremendous dividends in the long run. It’s good for them, it’s good for me, and it’s good for our community.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: I can agree from firsthand experience, it’s a fantastic thing to see and be a part of. For their investment, companies get a big benefit beyond another developer too, don’t they? How can apprenticeships help companies become more effective and diverse?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Having an apprenticeship offering can definitely help companies. For one thing, it brings to light the things that make developers at these companies successful. In thinking about what knowledge and skills are important for an apprentice to have, senior developers need to evaluate the knowledge and skills that they have and their peers have. Talking about processes can also bring interesting things to light. It’s really a matter of taking a look at the company’s values and standards through new eyes. This can be an opportunity to make organizational changes based on a more clear assessment of how things are vs. how they could be better.&lt;/p&gt;
+
+&lt;p&gt;In terms of diversity, I think we see a lot of people entering the field as a second career. They bring skills to bear that they developed in this previous life — organizational skills, strong communication, workflow experience — that may be lacking in a more traditional developer role. This diversity of experience can be incredibly valuable to the company. I’ve heard apprentices talk about “starting over,” but their new careers are really part of a continuum of personal and professional development, and can really offer something unique to their new employers.&lt;/p&gt;
+
+&lt;p&gt;With respect other kinds of diversity, particularly finding apprentices from underrepresented groups, the choice of candidates is subject to the same limitations that exist for filling a role from a more traditional pool of job-seekers. It’s important to work around the network effect: don’t just consider people from your personal and professional circles, who will tend to look, act, and think like you. Outreach goes a long way here. It’s critical that organizations look to expand the search for apprentices in new ways. Working with user groups serving women of color getting into tech, for example, can be a great way to find candidates that might be otherwise overlooked. If you look in the old familiar places you’re going to end up with the same demographic that you already have at your company, and you’ll miss out on opportunities to bring fresh perspectives and diverse experiences to your workforce.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: You mentioned that looking in the same places, we don’t really find a diverse, representative population. I wanted to dig a little bit deeper into what some of those differences are. How we can look at candidates who are very very junior by definition, and find these high quality folks without the crutches we’re used to.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; I think part of it is, there’s a lot of talk about finding people who are a good fit culturally. Which, in a lot of cases ends up being shorthand for “looks just like me and thinks just like me.”&lt;/p&gt;
+
+&lt;p&gt;So, one of the ways I’ve seen to get around that is being really up front about what your values are as a development organization. And then finding out what the values are that a potential candidate holds dear to their hearts, and seeing if there’s an alignment there. So, you can kind of see past some of the differences that are on the surface in terms of different life experiences, or different backgrounds of various kinds. And see is this person someone who feels as passionate about this particular thing as we do. Then you can use that to align your matches a little bit better, instead of being put off or intimidated by the differences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Do you find that folks with that kind of match end up working well, in your experience? The fear is that you find someone who loves what they’re doing, but do they cut it at the end of the day?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; It’s beyond just being passionate about technology when I talk about values. Like, for me my personal values are finding learning moments, finding teaching moments, and giving back to the community. So ideally I’d work for an organization that is about learning and teaching. And if there’s an alignment there, I’m probably going to be happier there. If I’m happier there, I’m going to be more productive there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: That makes sense. You spoke really early on about the types of skills that people need to learn coming in. And again we have folks who have a nontraditional background, who probably have a significant amount of life experience. My intuition, based partially on my own experience, is that technology is important but that it’s not really a huge part of the point. Can you speak to what kinds of skills that apprentices end up learning as part of the process?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; A big part of it I think is learning how to learn effectively. One of the things we did at a previous employer where we had a full-on apprenticeship program, was to create a reading list for people to work through. We then asked them to write blog posts about what they were picking up. I think that a lot of people have different learning styles and adapting to a situation where you have to learn at a given pace in order to keep up is something that an apprentice would have to pick up, to change or mould themselves into that position a little bit. So that’s pretty important.&lt;/p&gt;
+
+&lt;p&gt;I think most software problems come down to people problems, though. So we should be looking for someone with good communication skills, someone with good interpersonal skills, someone with a broader mind who can know how to work with people with different viewpoints. Those are really key factors in being successful no matter where you are in your career, and I think being an apprentice is no different in that regard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So that was a full-on formal program there. We chatted a little bit about formal or informal programs. How does that change the experience of teaching people these things. How would you describe that difference, and how that affects being able to deal with those interpersonal problems or differences in learning style?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; I think it’s a matter of where you put your focus, or where the apprentice is asked to put most of their focus. In a situation where they really need to get up to speed quickly in a technology that is maybe less familiar to them, having that formalized process, where there is a prescribed area of learning that they need to dive into very deeply, would be a better approach. Whereas if there’s some technology alignment already, and they just need to level up some, then a one-on-one, more informal way of doing things is probably a better approach.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So potentially people coming from, say, a dev bootcamp might end up in an informal situation, where somebody who’s all the way outside of the field would be a better candidate for a formal situation?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Right.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Okay. You talked about reading lists, blogging, those kind of things. Can you me about some stuff that sounded like a good idea at first, that ended up not working. And how did you adjust around that?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Sure, let me think about that for just a second.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Sure. So to give you an example, when I was doing my last apprenticeship program we had cohorts of maybe six or seven people coming in for full time positions. And we had an apprentice who happened to come in at the same time, and we put her into that cohort. It was a terrible idea. Having people who were that far separated from her experience was just really hard on her confidence in that situation. So we had to go back and correct and work her into a group of people much closer to her own development.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Right, and that sort of ties into that boxcar theory that Dave Hoover from Dev Bootcamp was talking about, in terms of pairing people up who are closer to their level of experience. Because they remember what it’s like to be at that stage. So I think one of the big mistakes is saying we’re going to take someone really senior, and pair the apprentice up with them, because they have the broadest area of knowledge to share. Your most senior people are not necessarily the best teachers.&lt;/p&gt;
+
+&lt;p&gt;I think that’s an easy mistake to make.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Thank you! Any other things that you found sounded like a good idea but ended up being not so much?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Blogging could go either way. I think blogging in general is a good idea for learners, because it creates a written record or a sort of map of where they’ve been and what they’ve learned. What they’ve picked up along the way.&lt;/p&gt;
+
+&lt;p&gt;But that can also be a burden, because writing is very difficult for some people. And so it comes down to, how much time are you asking them to put in outside of work? Are you making time for them to take a day out of the week to do all of their writing assignments?&lt;/p&gt;
+
+&lt;p&gt;Depending on how the program is structured, that can be a good thing or a bad thing. Being respectful of their time is pretty important. You’re already expecting them to do reading outside of work, but having them do writing outside of work can really add to the burden. Especially if you’re talking about women, who traditionally have a lot more work outside of the workplace that they have to do. And not just women, but anyone with a lot of family or other responsibilities. Putting a burden on them to use more of their outside of work time can be really challenging and problematic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah, I can see them getting anxious, at least from my experience, about doing anything that doesn’t feel like it’s the “real deal” part of the job, too. They’re already feeling like “I need to get up to speed, and ship. Why am I doing all these other things on the side?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Right. It’s a lot of pressure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: So you’ve talked before, and I think this is a really interesting idea, that we have no clear milestones in terms of how you become a mid-level from a junior. Or even a junior from an apprentice. And I want to talk about that.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So maybe by way of example, I’ve been aware of a program where the belief was that by the end of the apprenticeship, you should be a mid-ish junior. Whereas the people who were running the program thought that at the end of that program, you’d be essentially equivalent to a new grad just coming out of college. Can you talk about that issue?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; I think it’s problematic as an industry that we don’t have a good definition of terms, and really the only time you get that boost is through a rare promotion. Or more likely, moving to a different job, applying for a job that’s outside of your current pay grade, if you will. So not having an industry standard way of assessing where someone is in their career is, I think, a real problem industry-wide. But I don’t see an industry-wide solution to it necessarily coming about.&lt;/p&gt;
+
+&lt;p&gt;I would love for major tech companies to come together and decide, “at this level you should understand architecture patterns, and at this level you should understand how to build an architecture.” Things along those lines. But I think it’s so slippery right now that it’s probably insolvable at this point in time.&lt;/p&gt;
+
+&lt;p&gt;Which I think is a real disservice to people, because we don’t have any idea until you’ve reached a senior status, and maybe not even then, how you measure up to your colleagues. And if you’re in fact aligned with other people who have the same job title that you do. And I think that’s a big part of maybe feeding into Impostor Syndrome, for example. Because you’re like “this person is smarter than I am, but we’re both seniors. Does that mean I’m not really a senior developer?”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah. And people come from so many different directions. If you learned, y’know, informally, or you’re better at modeling, or algorithms, versus architecture. It’s such a wide field.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Exactly. So I wish we had some clearer delineations, but I don’t think they’re going to come about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah. Can I get a cool iron ring after I take a certification?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Oh definitely. And that’s what the old guild systems did so much better than we’re doing today. So we’ve adopted this idea of apprenticeship, but we haven’t adopted the full-on guild model. So with a medieval guild, you had a paid apprenticeship. I would liken that to being at a bootcamp, for example, or being an apprentice at a company. Once you had fulfilled the terms of your apprenticeship, which were laid out very clearly in advance, you became a journeyman. And you became a journeyman until you completed a master work or masterpiece. That masterpiece was judged by other masters of your craft and members of your guild.&lt;/p&gt;
+
+&lt;p&gt;Some people would never achieve that level, and that was okay. But as a journeyman you were free to move around and work for different masters, and learn and perfect your craft. So if you did happen to achieve your master work, you became a master. And that was something that could never be taken away, something that you had achieved through some sort of identifiable achievement. Some sort of well defined, identifiable achievement.&lt;/p&gt;
+
+&lt;p&gt;And there were only three levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Heh, that’s interesting.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Yeah. You knew where you were, you knew exactly where you stood, and you knew what you had to do to get to the next level.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah. It’s interesting in that sense. And I know that in those novice levels, if you were say a novice painter, during your apprenticeship phase you would be doing very rote mixing of paints. Or things that were well laid out, and you did them according to the rules. Whereas you think of a master painter coming up with new styles and variations on things.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s interesting how much less regimented we are than painters. As an industry, we’re agile, or we do waterfall, or we do TDD. You’re pairing or not pairing, and there are no real bases beyond maybe… typing? Maybe source control? But probably not even that.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Well then I’m in trouble because I’m a horrible typist.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Ha! Okay, so maybe source control. We all agree that source control is a thing. We need to mature enough to understand what those bases are as a profession.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Right. And the other problem with that is that it varies so much from company to company.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Or team to team.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Team to team, yeah. A junior engineer at Google will mean something different from a junior engineer at a startup with a hundred people in it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Which is not to say that you can’t… I mean, we’re faking it, but we’re not faking it 100%. So there’s a seed of something where we could start to codify this. It’s a really interesting, really big space.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; I think it’s a matter of the will to do it. Because the people who are looking for that sort of delineation are not the sort of people who are also the ones in power. Or empowered to decide what those delineations are.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: In my management experience, there’s definitely also the situation where the closer you get to having a list, the more people try to game the list and move themselves up. Which is interesting going back to the guild system, where you have a single master with apprentices checking the work. You have to have a really robust way to do that. It’s not a checklist of, say writing ten tests.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Right.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Hopefully we’ll move… no, I think we’re moving further away from it. I was going to say maybe we’re getting better, but I think maybe we’re getting worse.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;One last question. I’m doing these interviews as a way to try to help companies get a little bit less afraid about having apprenticeships, and making that part of their team. Is there anything you’d want companies who are on that cusp to understand?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; I think one of the problems that companies face is loyalty. Sometime in the 90s, tech companies stopped being loyal to employees. And therefore employees stopped being loyal to companies. I think one of the advantages you get with an apprenticeship is you have someone who has a sense of– I don’t want to say obligation– but a sense of gratitude, to the company that took them and helped to shape them and put them on a path.&lt;/p&gt;
+
+&lt;p&gt;And those are going to be employees who have demonstrated that they are aligned with your company values. That they are good learners, and hard workers. And they’re people who I imagine would be more likely to stay if they’re being treated well. So that can decrease the frequency of job hopping.&lt;/p&gt;
+
+&lt;p&gt;It’s a matter of investing in your people. It also demonstrates to other employees who are already there, other engineers, that you are working to make people better. And demonstrating some attachment to your development team, some investment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Yeah. I’ve seen lower attrition of senior employees once junior employees got more education. It makes sense once you think about it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Yeah, I think that’s a pretty important benefit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joe: Definitely the case. Well, thank you for talking to me about apprenticeship.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coraline:&lt;/strong&gt; Sure!&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
+
+&lt;p&gt;Coraline is a Lead Engineer of Developer Happiness at Instructure. You can learn more about her by watching her talk from &lt;a href='https://www.youtube.com/watch?v=96cqqEfGSFg'&gt;RailsConf&lt;/a&gt;, finding her on &lt;a href='https://twitter.com/CoralineAda'&gt;Twitter&lt;/a&gt;, and then supporting her work via &lt;a href='https://www.patreon.com/coraline?ty=h'&gt;Patreon&lt;/a&gt;. She has a &lt;a href='http://where.coraline.codes/'&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;aside&gt;Joe helps companies build fantastic engineering cultures and is also a hired gun for Rails projects. You can watch Joe’s talks at &lt;a href='http://confreaks.tv/presenters/joe-mastey'&gt;Confreaks&lt;/a&gt; and talk to him on &lt;a href='https://twitter.com/jmmastey'&gt;Twitter&lt;/a&gt; too. You&amp;rsquo;re currently on his website.&lt;/aside&gt;
+
+&lt;aside&gt;The official song for this interview is &lt;a href='https://www.youtube.com/watch?v=SPlQpGeTbIE'&gt;here&lt;/a&gt;. If you enjoyed this article, please share or recommend it so that more people can see it. Also, keep being awesome.&lt;/aside&gt;</content><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><category term="case-studies-in-apprenticeship" /><category term="apprenticeship" /><category term="coraline" /><category term="case-studies-in-apprenticeship" /><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://josephmastey.com/assets/images/blog/apprenticeship-vol-1-coraline-ada-ehmke.jpg" /></entry></feed>
