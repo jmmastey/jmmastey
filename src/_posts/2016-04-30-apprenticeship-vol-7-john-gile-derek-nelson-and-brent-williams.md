@@ -9,6 +9,8 @@ teaser: We sit down to talk about apprenticeship and learning with Clique Studio
 
 <p>We’re back talking about software apprenticeships and the practices that make them successful. This time we’re talking to three leaders from Clique Studios, a design and engineering company in Chicago. They recently completed their first Modern Apprentice Program (MAP) and sat down to discuss what they learned.</p>
 
+<hr />
+
 <p><strong>Joe: Just to get started, I wanted to say thank you for taking the time to sit down and actually talk to me about the program you have.</strong></p>
 
 <p><strong>Derek:</strong> Yeah, of course.</p>
@@ -43,7 +45,7 @@ teaser: We sit down to talk about apprenticeship and learning with Clique Studio
 
 <p>Which is ultimately what you’re going to have to exercise to be effective as an engineer at the company. All of our engineers here mentor and pair with them, but eventually they get to a place where they’re a little more independent.</p>
 
-<br />
+<hr />
 
 <blockquote>“Having an engineer that was in charge of mentoring all the apprentices through that project was more efficient and effective.”</blockquote>
 
@@ -151,7 +153,7 @@ teaser: We sit down to talk about apprenticeship and learning with Clique Studio
 
 <p><strong>Derek:</strong> *laughing* And that’s fine. I think the big gap right now is that there are a lot of people who are interested in the frontend. And there’s a big gap between that aspect and the engineering people. And bootcamps are filling that gap and getting more people to be interested in that part, I think that’s a great thing. It’s just <emph>different</emph> than what we expected.</p>
 
-<br />
+<hr />
 
 <p><strong>Joe: So, last question. What does the future of the program look like?</strong></p>
 
@@ -177,7 +179,7 @@ teaser: We sit down to talk about apprenticeship and learning with Clique Studio
 
 <p>All: Thanks.</p>
 
-<br />
+<hr />
 
 <aside>Derek Nelson is a founder of Clique Studios. He Tweets at <a href='twitter.com/derekcnel'>@derekcnel</a>, or you can check out his personal site at <a href='http://www.derekcnelson.com/'>http://www.derekcnelson.com/</a>.</aside>
 

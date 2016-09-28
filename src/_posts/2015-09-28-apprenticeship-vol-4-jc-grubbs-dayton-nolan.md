@@ -115,7 +115,7 @@ teaser: We sit down to talk about apprenticeship and learning with JC Grubbs and
 
 <p><strong>Dayton:</strong> Thanks.</p>
 
-<br />
+<hr />
 
 <p>JC Grubbs is the CEO of <a href='https://www.devmynd.com/'>DevMynd</a>. You can find him tweeting at <a href='https://twitter.com/thegrubbsian'>@thegrubbsian</a>. Dayton Nolan is a Consultant at DevMynd. He also tweets, at <a href='https://twitter.com/daytonnolan'>@daytonnolan</a>. You can visit them during one of the many <a href='https://www.devmynd.com/events/'>events they host</a> at their space in Chicago.</p>
 
