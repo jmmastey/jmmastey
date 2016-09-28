@@ -20,7 +20,7 @@ layout: default
 
           <div> Tags:
             {% for tag in page.tags %}
-              <a href="{{site.baseurl}}/tag/{{ tag[0] | slugify }}"> {{ tag[0] }} </a> |
+              <a href="{{site.baseurl}}/tag/{{ tag | slugify }}"> {{ tag }} </a> |
             {% endfor %}
           </div>
         </article><!-- End .blog-post -->
@@ -39,7 +39,7 @@ layout: default
             <!-- End post-date -->
             <div class="post-content">
               <h5 class="title"><a href="single-post.html">{{post.title}}</a></h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, qui?</p>
+              <p>{{ post.teaser }}</p>
             </div><!-- content -->
           </div><!-- End .one-half -->
           {% endfor %}
@@ -51,7 +51,7 @@ layout: default
             </div><!-- End post-date -->
             <div class="post-content">
               <h5 class="title"><a href="single-post.html">{{post.title}}</a></h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, provident.</p>
+              <p>{{ post.teaser }}</p>
             </div><!-- content -->
           </div><!-- End .one-half -->
           {% endfor %}

@@ -1316,6 +1316,7 @@ form .error:focus {
 .blog-single {
   background: #f5f5f5;
   color: #606060;
+  font-size: 17px;
 }
 
 .blog-post.single {
@@ -1352,10 +1353,11 @@ form .error:focus {
     position: absolute;
     top: 0;
     z-index: 52;
+    font-size: 17px;
 }
 
 .blog-date .day {
-    font-size: 20px;
+    font-size: 21px;
 }
 
 .blog-date:before {
@@ -1381,7 +1383,7 @@ form .error:focus {
 
 .blog-post.single .blog-title {
   margin-bottom: 20px;
-  font-size: 240%;
+  font-size: 36px;
 }
 
 .blog-meta {
@@ -1453,7 +1455,7 @@ form .error:focus {
 /* ===================================================== */
 
 .aside .title {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .widget {

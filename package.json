@@ -1,11 +1,11 @@
 {
-  "name": "josephmastey",
+  "name": "josephmastey.com",
   "version": "0.0.0",
   "description": "",
-  "homepage": "http://jmmastey.github.io/josephmastey",
+  "homepage": "http://josephmastey.com",
   "author": {
     "name": "Joseph Mastey",
-    "email": ""
+    "email": "jmmastey@gmail.com"
   },
   "devDependencies": {
     "autoprefixer": "^6.2.3",
