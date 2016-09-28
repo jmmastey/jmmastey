@@ -2,10 +2,6 @@
 layout: default
 ---
 <div class="blog page">
-  <div class="section-title">
-    <h1 class="title">Blog</h1>
-    <p class="description">This is some information about the services we offer.</p>
-  </div>
   <div class="container">
     <div class="blog-main three-fourths">
     
@@ -24,7 +20,8 @@ layout: default
 
           <div class="post-content">
 
-            {{post.teaser}}
+            {{ post.teaser }}
+            <p>Time to Read: {{ post.content | reading_time_as_s }}</p>
             <a class="read-more" href="{{ post.url }}">Read More</a>
           </div>
 
@@ -44,15 +41,8 @@ layout: default
       <div class="widgets">
 
         <div class="widget">
-        <!--
-          <form class="search" action="search.html" method="get">
-            <button class="search-btn"><i class="fa fa-search"></i></button>
-            <input name="q" type="text" class="search-box" placeholder="search">
-          </form>
-        -->
-          <!-- End .search -->
           <h5 class="sub-title">About</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, nisi, facere voluptatibus sed porro beatae.</p>
+          <p>Subscribe to receive articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.</p>
           {% include mailchimp.html%}
         </div><!-- End .widget -->
         
@@ -60,7 +50,7 @@ layout: default
           <h5 class="sub-title">Categories</h5>
           <ul class="categories">
             {% for category in site.categories %}
-            <li><i class="fa fa-angle-right"></i><a href="#">{{category[0]}}</a></li>
+            <li><i class="fa fa-angle-right"></i><a href="#">{{category[0] | titleize}}</a></li>
             {% endfor %}
           </ul>
         </div><!-- End .widget -->        

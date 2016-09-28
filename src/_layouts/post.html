@@ -3,11 +3,6 @@ layout: default
 ---
   <div class="blog-single page">
 
-    <div class="section-title">
-      <h1 class="title">Our Blog</h1>
-      <p class="description">This is some information about the services we offer.</p>
-    </div>
-
     <div class="container">
       <div class="blog-main three-fourths">
 
@@ -18,13 +13,15 @@ layout: default
           </div>  
 
           <img class="main-image" src="{{page.image}}" alt="">
-          <h3 class="blog-title">This is a really catchy blog title, no?</h3>
+          <h3 class="blog-title">{{ page.title }}</h3>
+          <p><strong>Time to Read: {{ content | reading_time_as_s }}</strong></p>
 
           {{content}}
+
           <div> Tags:
-            <a href="#">design</a> /
-            <a href="#">development</a> /
-            <a href="#">workflow</a>
+            {% for tag in page.tags %}
+              <a href="{{site.baseurl}}/tag/{{ tag[0] | slugify }}"> {{ tag[0] }} </a> |
+            {% endfor %}
           </div>
         </article><!-- End .blog-post -->
 
@@ -60,90 +57,7 @@ layout: default
           {% endfor %}
         </div><!-- End .recent-posts -->
         
-<!--
-        <div class="comments">
-            <h4 class="sub-title">Recent Comments</h4>
-            <ul class="comment-list">
-                <li>
-                    <article class="comment">
-                        <img src="img/avatar.png" alt="avatar" class="comment-avatar">
-                        <div class="comment-content">
-                            <h5 class="comment-author">
-                                Roland Peters
-                                <span class="comment-meta">January 3, 2013 \ <a href="#" class="comment-reply">reply</a></span>
-                            </h5>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis accusamus alias
-                            doloribus aliquam voluptas cupiditate animi officia temporibus dicta iure.
-                        </div>
-                    </article>
-                    <ul class="child">
-                        <li>
-                            <article class="comment">
-                                <img src="img/avatar.png" alt="avatar" class="comment-avatar">
-                                <div class="comment-content">
-                                    <h5 class="comment-author">
-                                        Andrew Davies
-                                        <span class="comment-meta">January 4, 2013 \ <a href="#" class="comment-reply">reply</a></span>
-                                    </h5>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus explicabo
-                                    itaque doloribus nisi eos numquam cum praesentium aliquid autem nesciunt?
-                                </div>
-                            </article>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <article class="comment">
-                        <img src="img/avatar.png" alt="avatar" class="comment-avatar">
-                        <div class="comment-content">
-                            <h5 class="comment-author">
-                                Julie Brown
-                                <span class="comment-meta">January 3, 2013 \ <a href="#" class="comment-reply">reply</a></span>
-                            </h5>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae adipisci ipsam est
-                            dolorum suscipit eaque incidunt blanditiis aperiam earum provident.
-                        </div>
-                    </article>
-                </li>
-                <li>
-                    <article class="comment">
-                        <img src="img/avatar.png" alt="avatar" class="comment-avatar">
-                        <div class="comment-content">
-                            <h5 class="comment-author">
-                                Ben Radcliff
-                                <span class="comment-meta">January 1, 2013 \ <a href="#" class="comment-reply">reply</a></span>
-                            </h5>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora dolorem repellendus eaque
-                            obcaecati doloremque fugiat suscipit minus totam quidem natus!
-                        </div>
-                    </article>
-                </li>
-            </ul>
-        </div>
-        <form action="#" class="leave-comment">
-            <h4 class="sub-title">Add Comment</h4>
-        
-            <div class="one-third">
-                <span>
-                    <input type="text" id="comment-name" name="comment-name" placeholder="name">
-                </span>
-                <span>
-                    <input type="email" id="comment-email" name="comment-email" placeholder="email">
-                </span>
-                <span>
-                    <input type="url" id="comment-url" name="comment-url" placeholder="website">
-                </span>
-            </div>
-        
-            <div class="two-thirds last" data-animate="fadeInDown" data-animate-delay="1000">
-                <span>
-                    <textarea name="comment-message" id="comment-message">Message</textarea>
-                </span>
-            </div>
-            <input type="submit" class="button" name="submit" value="Post Comment">
-        </form>
--->
-        </div><!-- End .three-fourths -->
+      </div><!-- End .three-fourths -->
 
       <!-- Sidebar -->
       <aside class="aside one-fourth last">
@@ -151,19 +65,16 @@ layout: default
         <div class="widgets">
 
           <div class="widget">
-            <form class="search" action="search.html" method="get">
-              <button class="search-btn"><i class="fa fa-search"></i></button>
-              <input name="q" type="text" class="search-box" placeholder="search">
-            </form><!-- End .search -->
             <h5 class="sub-title">About</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, nisi, facere voluptatibus sed porro beatae.</p>
+            <p>Subscribe to receive articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.</p>
+            {% include mailchimp.html%}
           </div><!-- End .widget -->
           
           <div class="widget">
             <h5 class="sub-title">Categories</h5>
             <ul class="categories">
               {% for category in site.categories %}
-              <li><i class="fa fa-angle-right"></i><a href="#">{{category[0]}}</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="#">{{category[0] | titleize}}</a></li>
               {% endfor %}
             </ul>
           </div><!-- End .widget -->        

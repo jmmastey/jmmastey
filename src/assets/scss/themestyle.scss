@@ -1314,7 +1314,8 @@ form .error:focus {
 
 .blog,
 .blog-single {
-    background: #f5f5f5;
+  background: #f5f5f5;
+  color: #606060;
 }
 
 .blog-post.single {
@@ -1331,7 +1332,9 @@ form .error:focus {
 }
 
 .blog-post {
-    position: relative;
+  position: relative;
+  line-height: 1.7;
+  font-size: 120%;
 }
 
 .blog-date {
@@ -1373,11 +1376,21 @@ form .error:focus {
 }
 
 .blog-title {
-    margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.blog-post.single .blog-title {
+  margin-bottom: 20px;
+  font-size: 240%;
 }
 
 .blog-meta {
     margin-bottom: 10px;
+}
+
+.blog-post a, .read-more {
+  text-decoration: underline;
+  color: #F15B2D;
 }
 
 
