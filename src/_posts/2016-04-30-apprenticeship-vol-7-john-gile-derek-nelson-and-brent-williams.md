@@ -1,7 +1,7 @@
 ---
 title: Case Studies in Apprenticeship, Vol. 7 — John Gile, Derek Nelson, and Brent Williams
 layout: post
-image: /assets/images/blog/case-studies-in-apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams.jpg
+image: /assets/images/blog/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams.jpg
 category: case-studies-in-apprenticeship
 tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Clique Studios.
