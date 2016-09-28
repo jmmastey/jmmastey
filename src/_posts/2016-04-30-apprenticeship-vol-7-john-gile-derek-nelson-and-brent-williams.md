@@ -7,7 +7,7 @@ tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Clique Studios.
 ---
 
-<p>We’re back talking about software apprenticeships and the practices that make them successful. This time we’re talking to three leaders from Clique Studios, a design and engineering company in Chicago. They recently completed their first Modern Apprentice Program (MAP) and sat down to discuss what they learned.</p>
+<p>We’re back talking about software apprenticeships and the <a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'>practices that make them successful</a>. This time we’re talking to three leaders from <a href='https://cliquestudios.com/'>Clique Studios</a>, a design and engineering company in Chicago. They recently completed their first <a href='http://modern-apprentice.com/'>Modern Apprentice Program</a> (MAP) and sat down to discuss what they learned.</p>
 
 <hr />
 
