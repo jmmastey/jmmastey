@@ -5217,6 +5217,10 @@ form .error:focus {
 .blog-meta {
   margin-bottom: 10px; }
 
+.blog-post a {
+  text-decoration: underline;
+  color: #F15B2D; }
+
 /* ===================================================== */
 /* Comments
 /* ===================================================== */
