@@ -1,7 +1,7 @@
 ---
 title: Case Studies in Apprenticeship Vol. 4 — JC Grubbs and Dayton Nolan
 layout: post
-image: /assets/images/blog/apprenticeship-vol-4-jc-grubbs-nolan-daton.jpg
+image: /assets/images/blog/apprenticeship-vol-4-jc-grubbs-dayton-nolan.jpg
 category: case-studies-in-apprenticeship
 tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with JC Grubbs and Dayton Nolan.
