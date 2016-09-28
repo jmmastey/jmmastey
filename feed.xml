@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://josephmastey.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://josephmastey.com/" rel="alternate" type="text/html" /><updated>2016-09-28T17:21:42-05:00</updated><id>http://josephmastey.com/</id><title type="html">josephmastey.com</title><subtitle>Articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.</subtitle><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><entry><title type="html">Case Studies in Apprenticeship, Vol. 7 — John Gile, Derek Nelson, and Brent Williams</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship, Vol. 7 — John Gile, Derek Nelson, and Brent Williams" /><published>2016-04-30T00:00:00-05:00</published><updated>2016-04-30T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams/">&lt;p&gt;We’re back talking about software apprenticeships and the practices that make them successful. This time we’re talking to three leaders from Clique Studios, a design and engineering company in Chicago. They recently completed their first Modern Apprentice Program (MAP) and sat down to discuss what they learned.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://josephmastey.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://josephmastey.com/" rel="alternate" type="text/html" /><updated>2016-09-28T17:23:48-05:00</updated><id>http://josephmastey.com/</id><title type="html">josephmastey.com</title><subtitle>Articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.</subtitle><author><name>Joseph Mastey</name><email>jmmastey@gmail.com</email><uri>http://josephmastey.com/</uri></author><entry><title type="html">Case Studies in Apprenticeship, Vol. 7 — John Gile, Derek Nelson, and Brent Williams</title><link href="http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams/" rel="alternate" type="text/html" title="Case Studies in Apprenticeship, Vol. 7 — John Gile, Derek Nelson, and Brent Williams" /><published>2016-04-30T00:00:00-05:00</published><updated>2016-04-30T00:00:00-05:00</updated><id>http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams</id><content type="html" xml:base="http://josephmastey.com/case-studies-in-apprenticeship/2016/04/30/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams/">&lt;p&gt;We’re back talking about software apprenticeships and the practices that make them successful. This time we’re talking to three leaders from Clique Studios, a design and engineering company in Chicago. They recently completed their first Modern Apprentice Program (MAP) and sat down to discuss what they learned.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Joe: Just to get started, I wanted to say thank you for taking the time to sit down and actually talk to me about the program you have.&lt;/strong&gt;&lt;/p&gt;
 
@@ -34,7 +36,7 @@
 
 &lt;p&gt;Which is ultimately what you’re going to have to exercise to be effective as an engineer at the company. All of our engineers here mentor and pair with them, but eventually they get to a place where they’re a little more independent.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;“Having an engineer that was in charge of mentoring all the apprentices through that project was more efficient and effective.”&lt;/blockquote&gt;
 
@@ -142,7 +144,7 @@
 
 &lt;p&gt;&lt;strong&gt;Derek:&lt;/strong&gt; *laughing* And that’s fine. I think the big gap right now is that there are a lot of people who are interested in the frontend. And there’s a big gap between that aspect and the engineering people. And bootcamps are filling that gap and getting more people to be interested in that part, I think that’s a great thing. It’s just &lt;emph&gt;different&lt;/emph&gt; than what we expected.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Joe: So, last question. What does the future of the program look like?&lt;/strong&gt;&lt;/p&gt;
 
@@ -168,7 +170,7 @@
 
 &lt;p&gt;All: Thanks.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 
 &lt;aside&gt;Derek Nelson is a founder of Clique Studios. He Tweets at &lt;a href='twitter.com/derekcnel'&gt;@derekcnel&lt;/a&gt;, or you can check out his personal site at &lt;a href='http://www.derekcnelson.com/'&gt;http://www.derekcnelson.com/&lt;/a&gt;.&lt;/aside&gt;
 
@@ -492,7 +494,7 @@
 
 &lt;p&gt;&lt;strong&gt;Dayton:&lt;/strong&gt; Thanks.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;hr /&gt;&lt;/p&gt;
 
 &lt;p&gt;JC Grubbs is the CEO of &lt;a href='https://www.devmynd.com/'&gt;DevMynd&lt;/a&gt;. You can find him tweeting at &lt;a href='https://twitter.com/thegrubbsian'&gt;@thegrubbsian&lt;/a&gt;. Dayton Nolan is a Consultant at DevMynd. He also tweets, at &lt;a href='https://twitter.com/daytonnolan'&gt;@daytonnolan&lt;/a&gt;. You can visit them during one of the many &lt;a href='https://www.devmynd.com/events/'&gt;events they host&lt;/a&gt; at their space in Chicago.&lt;/p&gt;
 
