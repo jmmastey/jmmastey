@@ -5156,7 +5156,8 @@ form .error:focus {
 .blog,
 .blog-single {
   background: #f5f5f5;
-  color: #606060; }
+  color: #606060;
+  font-size: 20px; }
 
 .blog-post.single {
   margin-bottom: 60px; }
