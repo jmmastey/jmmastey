@@ -5217,7 +5217,7 @@ form .error:focus {
 .blog-meta {
   margin-bottom: 10px; }
 
-.blog-post a {
+.blog-post a, .read-more {
   text-decoration: underline;
   color: #F15B2D; }
 
