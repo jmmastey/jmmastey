@@ -31,6 +31,9 @@ gulp.task('build', gulp.series('clean', 'assets', 'build:site', 'html'));
 // tasks in the gulpfile instead of having to hunt for the deploy tasks
 gulp.task('deploy', gulp.series('upload'));
 
+// do them both!
+gulp.task('update', gulp.series('build', 'deploy'));
+
 // 'gulp rebuild' -- WARNING: Erases your assets and built site, use only when
 // you need to do a complete rebuild
 gulp.task('rebuild', gulp.series('clean', 'clean:images'));

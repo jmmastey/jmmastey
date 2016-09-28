@@ -3,7 +3,7 @@ title: Case Studies in Apprenticeship Vol. 1 — Coraline Ada Ehmke
 layout: post
 image: /assets/images/blog/apprenticeship-vol-1-coraline-ada-ehmke.jpg
 category: case-studies-in-apprenticeship
-tags: [apprenticeship, coraline]
+tags: [apprenticeship, coraline, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Coraline Ada Ehmke.
 ---
 

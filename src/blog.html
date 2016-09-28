@@ -50,7 +50,7 @@ layout: default
           <h5 class="sub-title">Categories</h5>
           <ul class="categories">
             {% for category in site.categories %}
-            <li><i class="fa fa-angle-right"></i><a href="#">{{category[0] | titleize}}</a></li>
+            <li><i class="fa fa-angle-right"></i><a href="{{site.baseurl}}/tag/{{ category[0] | slugify }}">{{category[0] | titleize}}</a></li>
             {% endfor %}
           </ul>
         </div><!-- End .widget -->        

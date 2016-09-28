@@ -3,7 +3,7 @@ title: Case Studies in Apprenticeship Vol. 2 — Blake Thomas
 layout: post
 image: /assets/images/blog/apprenticeship-vol-2-blake-thomas.jpg
 category: case-studies-in-apprenticeship
-tags: [apprenticeship]
+tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Blake Thomas.
 ---
 
