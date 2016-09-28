@@ -57,3 +57,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-time-to-read
+  - jekyll-titleize

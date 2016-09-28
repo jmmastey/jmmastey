@@ -1,0 +1,40 @@
+<!-- Sidebar -->
+<aside class="aside one-fourth last">
+
+<div class="widgets">
+
+  <div class="widget">
+    <h5 class="sub-title">About</h5>
+    <p>Subscribe to receive articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.</p>
+    {% include mailchimp.html%}
+  </div><!-- End .widget -->
+
+  <div class="widget">
+    <h5 class="sub-title">Categories</h5>
+    <ul class="categories">
+      {% for category in site.categories %}
+      <li><i class="fa fa-angle-right"></i><a href="{{site.baseurl}}/tag/{{ category[0] | slugify }}">{{category[0] | replace: '-', ' ' | titleize}}</a></li>
+      {% endfor %}
+    </ul>
+  </div><!-- End .widget -->        
+
+  <div class="widget">
+    <h5 class="sub-title">Popular</h5>
+    <ul class="categories">
+      {% for post in site.posts %}
+      <li><i class="fa fa-angle-right"></i><a href="{{post.url}}">{{post.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div><!-- End .widget -->  
+
+  <div class="widget tags">
+    <h5 class="sub-title">Popular Tags</h5>
+    {% for tag in site.tags %}
+    <a href="{{site.baseurl}}/tag/{{ tag[0] | slugify }}"> {{ tag[0] }} </a>
+    {% endfor %}
+  </div><!-- End .widget -->
+</div>  <!-- End .widgets -->
+
+</aside><!-- End .one-fourth -->
+<!-- End Sidebar -->
+

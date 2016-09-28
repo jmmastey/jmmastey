@@ -2,11 +2,41 @@
 layout: default
 ---
 
-<div class="blog-single page">
-<h2>{{ page.tag }}</h2>
-<ul>
-{% for post in page.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
-{% endfor %}
-</ul>
-</div>
+<div class="blog page">
+  <div class="container">
+    <div class="blog-main three-fourths">
+      <h3>Posts in '{{ page.tag | replace: '-', ' ' | titleize }}'</h3>
+    
+      <!-- Blog post 1 -->
+      {% for post in page.posts %}
+      <article class="blog-post">
+        <div class="blog-date">
+          <div>{{post.date | date_to_string | slice: 3, 4}}</div>
+            <div class="day">{{post.date | date_to_string | slice: 0, 2}}</div>
+        </div>  
+
+        <a href="{{ post.url }}"><img class="main-image" src="{{ post.image }}" alt="iPad"></a>
+
+        <div class="post-container">
+          <h2 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+          <div class="post-content">
+
+            {{ post.teaser }}
+            <p>Time to Read: {{ post.content | reading_time_as_s }}</p>
+            <a class="read-more" href="{{ post.url }}">Read More</a>
+          </div>
+
+        </div>
+
+      </article>
+
+      <hr>
+      {% endfor %}
+      <div class="clearfix"></div>
+
+    </div><!-- End .three-fourths -->
+
+    {% include sidebar.html %}
+  </div><!-- End .container -->
+</div><!-- End .sect-4 -->

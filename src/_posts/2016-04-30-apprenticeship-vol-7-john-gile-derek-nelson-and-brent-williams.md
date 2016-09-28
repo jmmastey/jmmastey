@@ -1,5 +1,5 @@
 ---
-title: Case Studies in Apprenticeship, Vol. 7 — John Gile, Derek Nelson, and Brent Williams
+title: Case Studies in Apprenticeship Vol. 7 — John Gile, Derek Nelson, and Brent Williams
 layout: post
 image: /assets/images/blog/apprenticeship-vol-7-john-gile-derek-nelson-and-brent-williams.jpg
 category: case-studies-in-apprenticeship

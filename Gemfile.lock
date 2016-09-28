@@ -35,6 +35,8 @@ GEM
       ruby-nuggets
     jekyll-time-to-read (0.1.2)
       jekyll
+    jekyll-titleize (0.1.0)
+      titleize (~> 1.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -61,6 +63,7 @@ GEM
     sawyer (0.7.0)
       addressable (>= 2.3.5, < 2.5)
       faraday (~> 0.8, < 0.10)
+    titleize (1.4.1)
 
 PLATFORMS
   ruby
@@ -76,6 +79,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagging
   jekyll-time-to-read
+  jekyll-titleize
   redcarpet
 
 BUNDLED WITH

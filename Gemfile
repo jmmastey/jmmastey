@@ -13,3 +13,4 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-tagging'
 gem 'jekyll-time-to-read'
+gem 'jekyll-titleize'
