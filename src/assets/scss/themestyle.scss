@@ -1314,7 +1314,6 @@ form .error:focus {
 
 .blog,
 .blog-single {
-  background: #f5f5f5;
   color: #606060;
   font-size: 17px;
 }
@@ -1334,8 +1333,12 @@ form .error:focus {
 
 .blog-post {
   position: relative;
-  line-height: 1.7;
-  font-size: 120%;
+  line-height: 1.6;
+  font-size: 110%;
+}
+
+.blog-post ol li {
+  line-height:1.6;
 }
 
 .blog-date {
