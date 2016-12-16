@@ -1,6 +1,15 @@
 # josephmastey
 
-> 
+## Actually Using This Thing
+
+0. Run `bundle install` and `npm install`
+1. Write a new blog post.
+2. Use `gulp build --prod` to generate all the files in `/dist`
+3. Use `gulp deploy` I think to move things into the `gh-pages` branch?
+4. I think push the branches `gh-pages` and `jekyll`??
+5. Verify on `https://github.com/jmmastey/jmmastey/settings` that the custom domain hasn't exploded for some reason.
+
+I don't think the master branch actually does anything...
 
 ## To get started
 
