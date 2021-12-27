@@ -7,7 +7,7 @@ tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Amelia Padua.
 ---
 
-<aside>For the third installment in this series (go see <a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/'>Part 1</a> and <a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/'>Part 2</a>), I’m talking to <a href='http://twitter.com/@aapwild'>Amelia Padua</a>, a Software Engineer at Trunk Club. Amelia was an apprentice last year, restarting Trunk Club’s program, which now has several more apprentices. By discussing the good (and bad) parts of successful apprenticeship programs, I’m hoping to make starting an apprenticeship program a little less scary.</aside>
+<aside>For the third installment in this series (go see <a href='http://joemastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/'>Part 1</a> and <a href='http://joemastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/'>Part 2</a>), I’m talking to <a href='http://twitter.com/@aapwild'>Amelia Padua</a>, a Software Engineer at Trunk Club. Amelia was an apprentice last year, restarting Trunk Club’s program, which now has several more apprentices. By discussing the good (and bad) parts of successful apprenticeship programs, I’m hoping to make starting an apprenticeship program a little less scary.</aside>
 
 <hr />
 
@@ -135,7 +135,7 @@ teaser: We sit down to talk about apprenticeship and learning with Amelia Padua.
 
 <aside>Amelia is a Software Engineer for <a href='http://www.trunkclub.com/'>Trunk Club</a>, and has recently started hosting the <a href='http://www.meetup.com/Chicago-Apprenticeship-Meetup/events/224063398/'>Chicago Apprenticeship Meetup</a> at their space. You can talk to her on <a href='http://twitter.com/aapwild'>Twitter</a>.</aside>
 
-<aside>Joe <a href='http://josephmastey.com/'>helps companies build fantastic engineering cultures</a> and is also a hired gun for software projects. You can watch Joe’s talks at <a href='http://confreaks.tv/presenters/joe-mastey'>Confreaks</a> and talk to him on <a href='https://twitter.com/jmmastey'>Twitter</a> too.</aside>
+<aside>Joe <a href='http://joemastey.com/'>helps companies build fantastic engineering cultures</a> and is also a hired gun for software projects. You can watch Joe’s talks at <a href='http://confreaks.tv/presenters/joe-mastey'>Confreaks</a> and talk to him on <a href='https://twitter.com/jmmastey'>Twitter</a> too.</aside>
 
 <aside>If you enjoyed this article, please share or recommend it so that more people can see it. And since you got this far, here’s a haiku:</aside>
 

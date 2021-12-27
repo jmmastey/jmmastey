@@ -47,4 +47,4 @@ on Github](https://github.com/sondr3/generator-jekyllized).
 
 ## Owner
 
-> [Joseph Mastey](http://jmmastey.github.io/josephmastey)
+> [Joe Mastey](http://jmmastey.github.io/joemastey)

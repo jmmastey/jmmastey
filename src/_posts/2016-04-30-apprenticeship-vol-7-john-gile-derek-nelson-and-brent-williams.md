@@ -7,7 +7,7 @@ tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Clique Studios.
 ---
 
-<p>We’re back talking about software apprenticeships and the <a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'>practices that make them successful</a>. This time we’re talking to three leaders from <a href='https://cliquestudios.com/'>Clique Studios</a>, a design and engineering company in Chicago. They recently completed their first <a href='http://modern-apprentice.com/'>Modern Apprentice Program</a> (MAP) and sat down to discuss what they learned.</p>
+<p>We’re back talking about software apprenticeships and the <a href='http://joemastey.com/tag/case-studies-in-apprenticeship/'>practices that make them successful</a>. This time we’re talking to three leaders from <a href='https://cliquestudios.com/'>Clique Studios</a>, a design and engineering company in Chicago. They recently completed their first <a href='http://modern-apprentice.com/'>Modern Apprentice Program</a> (MAP) and sat down to discuss what they learned.</p>
 
 <hr />
 
@@ -187,7 +187,7 @@ teaser: We sit down to talk about apprenticeship and learning with Clique Studio
 
 <aside>John Gile is the CTO at Clique, managing the engineering team and acting as primary architect on custom builds. He does not exist on the internet but we don’t judge him for it.</aside>
 
-<aside>Joe Mastey is a developer culture consultant and public speaker. He can help you make your engineers happier and more awesome. Who doesn’t want to be more awesome? You can find him on twitter at <a href='https://twitter.com/jmmastey'>@jmmastey</a> or at his personal site, <a href='http://josephmastey.com'>http://josephmastey.com</a>.</aside>
+<aside>Joe Mastey is a developer culture consultant and public speaker. He can help you make your engineers happier and more awesome. Who doesn’t want to be more awesome? You can find him on twitter at <a href='https://twitter.com/jmmastey'>@jmmastey</a> or at his personal site, <a href='http://joemastey.com'>http://joemastey.com</a>.</aside>
 
 <aside>Thanks for reading! If you found this helpful, please share it. The more software apprenticeship spreads in our community, the better we’ll all be. ❤</aside>
 

@@ -7,7 +7,7 @@ tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with JC Grubbs and Dayton Nolan.
 ---
 
-<p>This is the fourth installment of a series (<a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/'>1</a>, <a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/'>2</a>, <a href='http://josephmastey.com/case-studies-in-apprenticeship/2015/07/03/apprenticeship-vol-3-amelia-padua/'>3</a>) about successful apprenticeships. This time I’m talking to <a href='http://thegrubbsian.com/'>JC Grubbs</a> and <a href='http://www.daytonnolan.com/'>Dayton Nolan</a> of <a href='http://devmynd.com/'>DevMynd</a>, a Chicago- and SF-based software consultancy. As an industry, we can’t rely on our old tactics to hire a diverse and skilled team anymore. By highlighting the successes of apprenticeships in the community, hopefully we can overcome the perceived barriers other companies have to starting their own programs.</p>
+<p>This is the fourth installment of a series (<a href='http://joemastey.com/case-studies-in-apprenticeship/2015/06/12/apprenticeship-vol-1-coraline-ada-ehmke/'>1</a>, <a href='http://joemastey.com/case-studies-in-apprenticeship/2015/06/21/apprenticeship-vol-2-blake-thomas/'>2</a>, <a href='http://joemastey.com/case-studies-in-apprenticeship/2015/07/03/apprenticeship-vol-3-amelia-padua/'>3</a>) about successful apprenticeships. This time I’m talking to <a href='http://thegrubbsian.com/'>JC Grubbs</a> and <a href='http://www.daytonnolan.com/'>Dayton Nolan</a> of <a href='http://devmynd.com/'>DevMynd</a>, a Chicago- and SF-based software consultancy. As an industry, we can’t rely on our old tactics to hire a diverse and skilled team anymore. By highlighting the successes of apprenticeships in the community, hopefully we can overcome the perceived barriers other companies have to starting their own programs.</p>
 
 <hr />
 
@@ -119,6 +119,6 @@ teaser: We sit down to talk about apprenticeship and learning with JC Grubbs and
 
 <p>JC Grubbs is the CEO of <a href='https://www.devmynd.com/'>DevMynd</a>. You can find him tweeting at <a href='https://twitter.com/thegrubbsian'>@thegrubbsian</a>. Dayton Nolan is a Consultant at DevMynd. He also tweets, at <a href='https://twitter.com/daytonnolan'>@daytonnolan</a>. You can visit them during one of the many <a href='https://www.devmynd.com/events/'>events they host</a> at their space in Chicago.</p>
 
-<p>Joe Mastey <a href='http://josephmastey.com/'>gives tech companies an edge in the talent war</a> and is also a hired gun for software projects. You can watch Joe’s talks at <a href='http://confreaks.tv/presenters/joe-mastey'>Confreaks</a>, and he has often twet at <a href='https://twitter.com/jmmastey'>@jmmastey</a>.</p>
+<p>Joe Mastey <a href='http://joemastey.com/'>gives tech companies an edge in the talent war</a> and is also a hired gun for software projects. You can watch Joe’s talks at <a href='http://confreaks.tv/presenters/joe-mastey'>Confreaks</a>, and he has often twet at <a href='https://twitter.com/jmmastey'>@jmmastey</a>.</p>
 
 <p>If you enjoyed this article, please share or recommend it so that more people can see it.</p>
