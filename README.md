@@ -2,10 +2,10 @@
 
 ## Actually Using This Thing
 
-0. Run `bundle install` and `npm install`
+0. Run `bundle install` and `npm install`. Also `npm install gulp gulp-cli`.
 1. Write a new blog post.
-2. Use `gulp build --prod` to generate all the files in `/dist`
-3. Use `gulp deploy` to cause jekyll to push the `/dist` directory to the remote `gh-pages` branch. It'll take a minute to update from cache.
+2. Use `bundle exec gulp build --prod` to generate all the files in `/dist`
+3. Use `bundle exec gulp deploy` to cause jekyll to push the `/dist` directory to the remote `gh-pages` branch. It'll take a minute to update from cache.
 4. I think push the branch `jekyll`, just so we can recreate the whole situation.
 5. Verify on `https://github.com/jmmastey/jmmastey/settings` that the custom domain hasn't exploded for some reason.
 
@@ -47,4 +47,4 @@ on Github](https://github.com/sondr3/generator-jekyllized).
 
 ## Owner
 
-> [Joseph Mastey](http://jmmastey.github.io/josephmastey)
+> [Joe Mastey](http://jmmastey.github.io/joemastey)

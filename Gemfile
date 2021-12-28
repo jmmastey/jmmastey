@@ -1,6 +1,7 @@
 source "http://rubygems.org"
 
-gem 'jekyll'
+gem "github-pages", group: :jekyll_plugins
+#gem 'jekyll'
 gem 'redcarpet'
 
 # jekyll plugins

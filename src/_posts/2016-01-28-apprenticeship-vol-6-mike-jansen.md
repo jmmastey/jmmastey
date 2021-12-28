@@ -7,7 +7,7 @@ tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Mike Jansen.
 ---
 
-<aside>This is part of an <a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'>ongoing series</a> highlighting successful apprenticeship programs in the tech community. This time we’re talking to Mike Jansen, VP of Operations at <a href='https://8thlight.com/'>8th Light</a>, a software consultancy headquartered in Chicago. For the last 9 years, 8th Light has built one of the largest and most successful apprenticeship programs in the software industry. Their practices and patterns show how apprenticeships can be a big advantage in the war for tech talent.</aside>
+<aside>This is part of an <a href='http://joemastey.com/tag/case-studies-in-apprenticeship/'>ongoing series</a> highlighting successful apprenticeship programs in the tech community. This time we’re talking to Mike Jansen, VP of Operations at <a href='https://8thlight.com/'>8th Light</a>, a software consultancy headquartered in Chicago. For the last 9 years, 8th Light has built one of the largest and most successful apprenticeship programs in the software industry. Their practices and patterns show how apprenticeships can be a big advantage in the war for tech talent.</aside>
 
 <hr />
 
@@ -113,5 +113,5 @@ teaser: We sit down to talk about apprenticeship and learning with Mike Jansen.
 
 <aside><a href='http://www.jansen.io/about.html'>Mike Jansen</a> is the VP of Operations at 8th Light. He is <a href='https://twitter.com/mjansen401'>@mjansen401 on Twitter</a>, and also blogs sometimes at the <a href='https://blog.8thlight.com/'>8th Light Blog</a>. He can grow a beard in a way that Joe can only envy from afar.</aside>
 
-<aside><a href='http://josephmastey.com/'>Joe Mastey</a> is a consultant helping businesses build fantastic internal education programs for their tech teams. He is as good at building great developers as he is bad at beards. You can <a href='http://confreaks.tv/presenters/joe-mastey'>watch his talks</a> or find him on Twitter at <a href='https://twitter.com/jmmastey'>@jmmastey</a>.</aside>
+<aside><a href='http://joemastey.com/'>Joe Mastey</a> is a consultant helping businesses build fantastic internal education programs for their tech teams. He is as good at building great developers as he is bad at beards. You can <a href='http://confreaks.tv/presenters/joe-mastey'>watch his talks</a> or find him on Twitter at <a href='https://twitter.com/jmmastey'>@jmmastey</a>.</aside>
 

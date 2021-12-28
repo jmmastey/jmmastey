@@ -7,7 +7,7 @@ tags: [apprenticeship, case-studies-in-apprenticeship]
 teaser: We sit down to talk about apprenticeship and learning with Matt Polito.
 ---
 
-<aside>This is part of <a href='http://josephmastey.com/tag/case-studies-in-apprenticeship/'>an ongoing series</a> highlighting successful apprenticeship programs in the tech community. This time I’m talking to Matt Polito, a developer at <a href='http://hashrocket.com/'>Hashrocket</a> who also runs their apprenticeship program. I met Matt via the <a href='https://apprenticeship.community/'>Apprenticeship Community</a>, which you should also check out.</aside>
+<aside>This is part of <a href='http://joemastey.com/tag/case-studies-in-apprenticeship/'>an ongoing series</a> highlighting successful apprenticeship programs in the tech community. This time I’m talking to Matt Polito, a developer at <a href='http://hashrocket.com/'>Hashrocket</a> who also runs their apprenticeship program. I met Matt via the <a href='https://apprenticeship.community/'>Apprenticeship Community</a>, which you should also check out.</aside>
 
 <hr />
 
@@ -107,5 +107,5 @@ teaser: We sit down to talk about apprenticeship and learning with Matt Polito.
 
 <aside>Matt Polito is a veteran <a href='http://hashrocket.com/team/matt-polito'>software developer with Hashrocket</a>, as well as a contributor to many open source projects. You can find him on <a href='https://twitter.com/mattpolito'>Twitter</a> and <a href='https://github.com/mattpolito'>Github</a>.</aside>
 
-<aside>Joe Mastey <a href='http://josephmastey.com/'>helps companies build fantastic technical teams</a>. He also does public speaking, which you can see at <a href='http://confreaks.tv/presenters/joe-mastey'>Confreaks</a>. He’s also on <a href='http://twitter.com/jmmastey'>Twitter</a> more often than he should be.</aside>
+<aside>Joe Mastey <a href='http://joemastey.com/'>helps companies build fantastic technical teams</a>. He also does public speaking, which you can see at <a href='http://confreaks.tv/presenters/joe-mastey'>Confreaks</a>. He’s also on <a href='http://twitter.com/jmmastey'>Twitter</a> more often than he should be.</aside>
 
