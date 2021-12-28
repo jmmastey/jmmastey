@@ -2,8 +2,8 @@
 # Can be used in your theme by calling 'site.title' and so on
 title: joemastey.com
 description: Articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.
-url: https://joemastey.com
-domain: joemastey.com
+url: http://jmmastey.github.io/jmmastey/
+domain: jmmastey.github.io
 baseurl: /jmmastey/
 
 # Same as the title etc for your site but can instead be
@@ -12,7 +12,7 @@ baseurl: /jmmastey/
 author:
   name: Joe Mastey
   email: hello@joemastey.com
-  uri: http://joemastey.com/
+  uri: http://jmmastey.github.io/jmmastey/
   bio: 
   twitter: jmmastey
   github: https://github.com/jmmastey/
