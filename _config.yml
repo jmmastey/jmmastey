@@ -2,9 +2,9 @@
 # Can be used in your theme by calling 'site.title' and so on
 title: joemastey.com
 description: Articles about apprenticeship, learning and mentoring effectively, and creating the kinds of cultures that support excellent craftsmanship.
-url: http://jmmastey.github.io/jmmastey/
-domain: jmmastey.github.io
-baseurl: /jmmastey/
+url: https://www.joemastey.com
+domain: www.joemastey.com
+baseurl: /
 
 # Same as the title etc for your site but can instead be
 # called by using 'site.author.name' and so on
