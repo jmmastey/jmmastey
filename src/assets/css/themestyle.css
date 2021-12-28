@@ -423,6 +423,7 @@ h1.section-title:after,
     left: 0;
     z-index: 9999;
     width: 100%;
+    text-align: center;
 }
 
 .lightbox-btn i,
@@ -1956,16 +1957,26 @@ input.search-box {
     height: 100%;
 }
 
+.project blockquote {
+  font-size: 20px;
+  padding: 17px 20px 20px 19px;
+}
+
+.project .details .row {
+  margin-bottom: 30px;
+}
+
 .project-wrapper .button {
     margin-bottom: 0;
 }
 
 .project-wrapper .close {
     display: block;
-    height: 50px; width: 50px;
+    height: 50px;
+    width: 50px;
     font-size: 30px;
     color: #ddd;
-    padding: 50px 0 80px 0;
+    padding: 20px 0 80px 0;
     text-align: center;
     width: 100%;
 }
