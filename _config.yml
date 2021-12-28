@@ -36,6 +36,8 @@ excerpt_separator: ''
 tag_page_layout: tag_page
 tag_page_dir: tag
 
+includes_dir: src/_includes
+
 # Markdown library and options
 markdown: redcarpet
 redcarpet:
